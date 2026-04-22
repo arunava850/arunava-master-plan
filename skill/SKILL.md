@@ -34,6 +34,8 @@ SETUP.md                             ← Obsidian + GitHub setup guide
   flywheel.md                        ← The build→document→post→audience→revenue flywheel
   audiences.md                       ← The 4 audiences in full detail
   what-to-do-first.md               ← Priority actions — this week, week 2, month 2+
+  brand-architecture.md              ← Domain strategy, social profiles, Arthagu LLC structure
+  pending-questions.md               ← Questions awaiting answer — CHECK THIS EVERY SESSION
 
 10-identity/
   positioning.md                     ← LinkedIn About, headline options, core positioning
@@ -133,9 +135,13 @@ PRIORITIES: https://raw.githubusercontent.com/arunava850/arunava-master-plan/mai
 
 1. Fetch the 4 key files above using web_fetch
 2. Read SKILL.md first, then HOME.md, then build-log.md, then what-to-do-first.md
-3. Read current status before giving any advice
-4. Ask what he wants to work on today
-5. After session — generate updated markdown for all changed files and list them clearly
+3. **Always fetch and check pending-questions.md** — if any questions have been answered, act on them and move them to the answered section
+4. Read current status before giving any advice
+5. Ask what he wants to work on today
+6. After session — generate updated markdown for all changed files and list them clearly
+
+**Pending questions URL:**
+`https://raw.githubusercontent.com/arunava850/arunava-master-plan/main/00-overview/pending-questions.md`
 
 ---
 
