@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "10-identity/linkedin-posts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "linkedin-posts"
             }
           }
         ]
@@ -197,10 +197,10 @@
   "active": "18ba198be4abf6aa",
   "lastOpenFiles": [
     "30-cricket-analytics/roadmap.md",
+    "README.md",
     "00-overview/what-to-do-first.md",
     "00-overview/flywheel.md",
     "00-overview/audiences.md",
-    "README.md",
     "60-website/architecture.md",
     "50-revenue-streams/overview.md",
     "50-revenue-streams/artist-service.md",
