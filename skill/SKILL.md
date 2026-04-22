@@ -10,73 +10,146 @@ This skill tells Claude how to navigate, read, and update Arunava's Obsidian vau
 
 - **Name:** Arunava Mondal
 - **LinkedIn:** linkedin.com/in/arunavamondal/
+- **GitHub vault:** https://github.com/arunava850/arunava-master-plan
 - **Current job:** Works at Sims Limited / Ainsemble — building with Cursor and AI
-- **Side hustle:** Kept private from employer — do not suggest LinkedIn for service promotion
+- **Side hustle:** Kept private from employer — never suggest LinkedIn for service promotion
 - **Location:** New Jersey, US (originally from India)
 - **Background:** 20 years enterprise engineering — SAP S/4HANA, BTP, Azure — across Infosys, PwC, IBM, TCS
 - **Education:** Jadavpur University — Electrical Engineering
 - **Certifications:** SAP BTP Solution Architect, ABAP Cloud Developer, CAP
 - **Wife:** Debasree — runs debasreedeyart.com (art courses — live and revenue generating)
-- **Interest:** Cricket (deeply passionate — starting cricket analytics from zero)
+- **Interest:** Cricket (deeply passionate — starting cricket analytics from zero publicly)
 - **Goal:** Build independent career and income — free from traditional employment
 
 ---
 
-## Vault structure
+## Vault structure — complete file map
 
 ```
-HOME.md                          ← Start here every session
+HOME.md                              ← Start here every session
+SETUP.md                             ← Obsidian + GitHub setup guide
+
 00-overview/
-  big-picture.md                 ← Full vision, goals, revenue streams, audiences
+  big-picture.md                     ← Full vision, goals, north star, 12-month milestones
+  flywheel.md                        ← The build→document→post→audience→revenue flywheel
+  audiences.md                       ← The 4 audiences in full detail
+  what-to-do-first.md               ← Priority actions — this week, week 2, month 2+
+
 10-identity/
-  positioning.md                 ← LinkedIn About, headline, core positioning
-  linkedin-posts.md              ← All posts — drafted, ready, published
+  positioning.md                     ← LinkedIn About, headline options, core positioning
+  linkedin-posts.md                  ← All posts — drafted, ready, published with status
+
 20-100-days/
-  overview.md                    ← 100 day project rules and structure
-  build-ideas.md                 ← All scattered app/build ideas
-  build-log.md                   ← Running log of completed builds
+  overview.md                        ← Full 100 day project — structure, all 100 days planned
+  build-ideas.md                     ← All app and build ideas (cricket, AI, artist tools)
+  build-log.md                       ← Running log of every completed build
+
 30-cricket-analytics/
-  roadmap.md                     ← Full cricket analytics journey plan
-  data-sources.md                ← Datasets and tools (to be created)
+  roadmap.md                         ← Full cricket analytics journey — phases 1–4
+  data-sources.md                    ← Datasets and tools (to be created when needed)
+  findings.md                        ← Data findings as you explore (to be created)
+
 40-content-engine/
-  system.md                      ← Platform strategy and weekly rhythm
-  post-drafts.md                 ← Posts in progress (to be created)
+  system.md                          ← Platform strategy, weekly rhythm, post formats
+  post-drafts.md                     ← Posts in progress (to be created as needed)
+
 50-revenue-streams/
-  overview.md                    ← All 6 revenue streams with timelines
-  artist-service.md              ← Artist website service — pricing, Meta ads
+  overview.md                        ← All 6 revenue streams with timelines and projections
+  artist-service.md                  ← Artist website service — tiers, Meta ads, client pipeline
+
 60-website/
-  architecture.md                ← Full sitemap and WordPress setup
-  wordpress-setup.md             ← Plugin list and custom post type setup (to be created)
+  architecture.md                    ← Full sitemap, /100days page, WordPress setup, plugins
+  wordpress-setup.md                 ← Detailed plugin and CPT setup (to be created)
+
 70-certifications/
-  path.md                        ← Certification plan and progress tracker
+  path.md                            ← Certification plan, phases, progress tracker
+
 80-build-log/
-  index.md                       ← Master build index by day number (to be created)
+  index.md                           ← Master index of all builds by day number (to be created)
+
 90-resources/
-  tools.md                       ← Tools, links, references (to be created)
+  github-obsidian-setup.md           ← GitHub + Obsidian Git setup guide
+  tools.md                           ← Tools, links, references (to be created)
+
+skill/
+  SKILL.md                           ← This file — Claude reads at session start
 ```
+
+---
+
+## CRITICAL RULE — Artifact and content updates
+
+**Every time Claude creates new content, plans, or decisions in a session:**
+
+1. Identify which vault file(s) the new content belongs in
+2. Generate the updated markdown for those files
+3. Tell Arunava exactly which files to update and what to paste
+4. Always end a session with: "Here are the vault files to update: [list]"
+
+**Where new content goes — mapping rules:**
+
+| Content type | Goes in |
+|---|---|
+| New LinkedIn post drafts | `10-identity/linkedin-posts.md` |
+| New build ideas | `20-100-days/build-ideas.md` |
+| Completed build entries | `20-100-days/build-log.md` |
+| Cricket data findings | `30-cricket-analytics/findings.md` |
+| New post drafts (other platforms) | `40-content-engine/post-drafts.md` |
+| Revenue stream updates | `50-revenue-streams/overview.md` |
+| Website changes | `60-website/architecture.md` |
+| New cert progress | `70-certifications/path.md` |
+| Priority action updates | `00-overview/what-to-do-first.md` |
+| New tools or resources | `90-resources/tools.md` |
+| New audience insights | `00-overview/audiences.md` |
+| Big picture changes | `00-overview/big-picture.md` |
+
+**If content doesn't fit any existing file:**
+- Create a new file in the most logical folder
+- Name it clearly in lowercase with hyphens: `topic-name.md`
+- Add it to the vault structure map in this SKILL.md
+
+---
+
+## GitHub repository (permanent)
+
+```
+Repo:     https://github.com/arunava850/arunava-master-plan
+Raw base: https://raw.githubusercontent.com/arunava850/arunava-master-plan/main/
+```
+
+**Key file URLs — fetch these every session:**
+```
+SKILL:      https://raw.githubusercontent.com/arunava850/arunava-master-plan/main/skill/SKILL.md
+HOME:       https://raw.githubusercontent.com/arunava850/arunava-master-plan/main/HOME.md
+BUILD LOG:  https://raw.githubusercontent.com/arunava850/arunava-master-plan/main/20-100-days/build-log.md
+PRIORITIES: https://raw.githubusercontent.com/arunava850/arunava-master-plan/main/00-overview/what-to-do-first.md
+```
+
+**Any file:** `https://raw.githubusercontent.com/arunava850/arunava-master-plan/main/[folder]/[file].md`
 
 ---
 
 ## How to start every session
 
-1. Ask Arunava what he wants to work on today
-2. Read the relevant vault note(s) before advising
-3. After the session — update the vault with any new decisions, plans, or content
-4. Always check `20-100-days/build-log.md` to know where he is in the 100 day project
-5. Always check `10-identity/linkedin-posts.md` for post status before writing new posts
+1. Fetch the 4 key files above using web_fetch
+2. Read SKILL.md first, then HOME.md, then build-log.md, then what-to-do-first.md
+3. Read current status before giving any advice
+4. Ask what he wants to work on today
+5. After session — generate updated markdown for all changed files and list them clearly
 
 ---
 
 ## Key decisions already made
 
-- **Platform split:** LinkedIn = AI/cricket/builds only. Instagram + Facebook = artist service only. No crossover.
+- **Platform split:** LinkedIn = AI/cricket/builds only. Instagram + Facebook = artist service only. No crossover. X = cricket hot takes + AI tips.
 - **Stack:** WordPress + Teachery + ConvertKit + Rank Math + Kadence theme
-- **First course:** Artist website course — build first (fastest market)
+- **First course:** Artist website course — build first (fastest market, proven stack)
 - **First revenue:** Artist website builds via Debasree referral + Meta ads
 - **100 days:** Three rotating themes — AI builds / Cricket analytics / Artist + web tools
 - **Certs:** Start with DeepLearning.AI immediately (free to audit)
 - **Website:** Custom post type for builds — powers gallery automatically
 - **No CS degree:** Never bring up. Lead with builds and output always.
+- **GitHub sync:** Claude reads files via raw URLs. Claude generates updated markdown. Arunava pastes into Obsidian. Obsidian Git auto-pushes.
 
 ---
 
@@ -88,38 +161,24 @@ HOME.md                          ← Start here every session
 
 ---
 
-## Ongoing priorities
+## Current priorities (update this section each session)
 
-1. Write and pin LinkedIn intro post ← **most urgent**
-2. Day 1 of 100 announcement post
-3. Instagram/Facebook artist service post
-4. Organise scattered build ideas into build-ideas.md
-5. Download first cricket dataset
+1. Write and pin LinkedIn intro post ← ready in `10-identity/linkedin-posts.md`
+2. Write Day 1 of 100 announcement post
+3. Write Instagram/Facebook artist service post
+4. Talk to Debasree about first artist client referral
+5. Download first cricket dataset (Cricsheet.org)
 6. Register arunavamondal.com
-7. Talk to Debasree about first artist client referral
+7. Run .gitignore cleanup on GitHub repo
 
 ---
 
-## How to update this vault
+## Tone and communication preferences
 
-When Arunava completes something:
-- Mark checkbox as done `[x]` in relevant note
-- Add entry to `20-100-days/build-log.md`
-- Update `HOME.md` weekly focus section
-- Add any new ideas to `20-100-days/build-ideas.md`
-- Add new post drafts to `10-identity/linkedin-posts.md`
-
-When plans change:
-- Update the relevant note directly
-- Note the date and reason for change at the bottom of that note
-
----
-
-## Tone and communication style
-
-- Arunava responds well to direct, concrete advice
-- He prefers structured plans over open-ended options
-- He is ambitious but realistic — working full time with limited hours
-- He is building for independence, not just extra income
-- His teaching dream is genuine and important to him — don't treat it as secondary
-- He is technically strong but values being shown the full picture, not just code
+- Direct and concrete — give specific advice, not open-ended options
+- Structured plans preferred over broad discussion
+- Working full time — solutions must be realistic for limited hours
+- Building for full independence, not just extra income
+- Teaching dream is genuine and important — not secondary to building
+- Technically strong but values the full picture, not just code
+- Responds well to honest pushback when it's constructive
