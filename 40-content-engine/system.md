@@ -18,30 +18,62 @@ Every time you build something you get:
 
 ---
 
-## Platform strategy
+## Platform strategy (UPDATED April 22, 2026)
 
-| Platform | Content type | Frequency | Audience | Notes |
-|---|---|---|---|---|
-| LinkedIn | AI builds, cricket, build-in-public | 3x/week | Enterprise, builders | NO service promotion — job privacy |
-| X / Twitter | Cricket hot takes, AI tips, threads | Daily or every other day | Tech + cricket community | Safe from employer visibility |
-| Instagram | Artist tools, website builds, visual | 3–4x/week | Artists | Visual-first — charts, reels, before/after |
-| Facebook | Artist service, communities, ads | 2–3x/week | Artists (older demographic) | Meta ads run from here |
-| YouTube | Screen recordings of builds | Every 2 weeks | All audiences | Start recording now, publish at 5 videos ready |
-| Website blog | Every build = one article | Per build | SEO / organic search | 100 builds = 100 indexed pages |
-| Newsletter | Weekly build log | Weekly | Your most loyal audience | Start from day one — ConvertKit |
+| Platform | Handle | Content type | Frequency | Audience | Notes |
+|---|---|---|---|---|---|
+| LinkedIn | @arunavamondal | AI builds, cricket, build-in-public | 3x/week | Enterprise, builders, engineers | NO service promotion — job privacy |
+| X / Twitter | @arunavamondal | Cricket hot takes, AI tips, build threads | Daily or every other day | Tech + cricket community | Safe from employer visibility |
+| Instagram | @dearart3 | Artist tools, website builds, visual | 3–4x/week | Artists, creators | Visual-first — charts, reels, before/after |
+| Facebook | Dear Art Page | Artist service, communities, events, ads | 2–3x/week | Artists (older demographic) | Meta ads run from here |
+| YouTube | Arunava Mondal | Screen recordings of builds | Every 2 weeks | All audiences | Start recording now, publish at 5 videos ready |
+| Website | arunavamondal.com | Every build = one article | Per build | SEO / organic search | 100 builds = 100 indexed pages |
+| Newsletter | ConvertKit | Weekly build log | Weekly | Your most loyal audience | Start from day one |
 
 ---
 
-## Weekly rhythm
+## Dear Art Social Strategy (UPDATED April 22, 2026)
 
+### Instagram @dearart3
+- **Content:** Artist success stories, website case studies, before/after, design tips
+- **Tone:** Inspirational, community-focused, artist-friendly
+- **Call-to-action:** "Build your artist website. hello@thedearart.com"
+- **Posting:** 3–4x per week (Monday-Thursday optimal for business accounts)
+- **Hashtags:** #ArtistWebsites #CreativeBusinesses #SellYourArt #OnlineArtist #SupportArtists
+
+### Facebook Dear Art Page
+- **Content:** Artist service announcements, event invitations, community wins, Meta ads
+- **Tone:** Warm, community-building, supportive
+- **Call-to-action:** "Contact us for your artist website"
+- **Posting:** 2–3x per week
+- **Ads:** Meta lead gen campaigns starting May (Q2)
+
+### Email (hello@thedearart.com)
+- **Response time:** 24 hours max for service inquiries
+- **Follow-up:** If no reply in 3 days, send one follow-up
+- **CRM:** Track in simple spreadsheet until first few clients, then upgrade to real tool
+
+---
+
+## Weekly rhythm (UPDATED April 22, 2026)
+
+### Personal Brand (LinkedIn + X)
 | Day | Activity |
 |---|---|
-| Monday | Build day — work on current 100 days build. Document as you go. |
-| Tuesday | Write LinkedIn post from Monday's build. Cross-post trimmed version to X. |
-| Wednesday | Cricket or learning post — LinkedIn + X. Short, specific, with a visual. |
-| Thursday | Artist content — Instagram + Facebook. Build from the artist theme days. |
-| Friday | Week in review — what I built, learned, found in cricket data. |
+| Monday | Build day — work on current 100 days build. Document as you go. (Publish LinkedIn post) |
+| Tuesday | — |
+| Wednesday | Learning/cricket post — LinkedIn + X. Short, specific, with a visual. |
+| Thursday | — |
+| Friday | Week in review + cricket finding — what I built, learned, found in cricket data. |
 | Weekend | Bigger build or study. Record YouTube every other weekend. DeepLearning.AI cert. |
+
+### Artist Service (Instagram + Facebook)
+| Day | Activity |
+|---|---|
+| Monday | Artist website case study / before-after |
+| Wednesday | Design tip or service update |
+| Friday | Community spotlight or testimonial |
+| Ongoing | Respond to DMs + emails within 24 hours |
 
 ---
 
@@ -94,9 +126,14 @@ What's next: [one line]
 
 ## Hashtags
 
-**LinkedIn:** #BuildingInPublic #100DaysOfBuilding #AIBuilder #CricketAnalytics #LearningInPublic
+### LinkedIn
+#BuildingInPublic #100DaysOfBuilding #AIBuilder #CricketAnalytics #LearningInPublic #CursorAI
 
-**X:** #CricketAnalytics #BuildingInPublic #100DaysOfCode #AITools
+### X / Twitter
+#CricketAnalytics #BuildingInPublic #100DaysOfCode #AITools #Python #MachineLearning
+
+### Instagram (Dear Art)
+#ArtistWebsites #CreativeBusinesses #SellYourArt #OnlineArtist #ArtistsOnline #WebDesign #DearArt
 
 ---
 
@@ -106,7 +143,13 @@ What's next: [one line]
 - **Cadence:** Weekly — every Friday or Sunday
 - **Format:** "This week I built X, learned Y, found Z in the cricket data."
 - **Why it matters:** Email list is the one asset you fully own. Start collecting from day one.
-- **Sign-up:** On every build page, homepage, and in LinkedIn bio
+- **Sign-up:** On every build page, homepage, LinkedIn bio, and Instagram bio link
+
+**Dear Art newsletter (separate):**
+- **Purpose:** Artist service updates, first-client testimonials, free tips
+- **Launch:** After first client
+- **Cadence:** Bi-weekly
+- **Tool:** Could use same ConvertKit, different segment
 
 ---
 
@@ -117,6 +160,13 @@ What's next: [one line]
 - **First video idea:** "I built a cricket analytics tool from scratch — watch me do it"
 - Cricket analytics build videos have genuine search demand — nobody owns this niche on YouTube
 - Aim for 10–20 minute videos — long enough to show the full build, short enough to watch
+
+**Recording setup checklist:**
+- [ ] Loom or OBS installed and tested
+- [ ] Screen resolution set to 1280x720 min
+- [ ] Audio quality tested (microphone or system audio clear)
+- [ ] First test recording completed and reviewed
+- [ ] Backup plan if primary tool fails
 
 ---
 
@@ -137,7 +187,29 @@ INCLUDE in Friday newsletter (5 min)
     ↓
 EDIT recording into YouTube video (every 2 weeks)
     ↓
-AUDIENCE grows → trusts you → buys courses → hires you
+IF artist service build: post on Instagram + Facebook
+    ↓
+AUDIENCE grows → trusts you → buys courses → hires you → buys Dear Art services
 ```
 
-Total extra time per build beyond the build itself: ~35 minutes.
+Total extra time per build beyond the build itself: ~35 minutes (excluding YouTube which batches every 2 weeks)
+
+---
+
+## Post scheduler tool recommendation
+
+- **Free option:** LinkedIn native scheduler, Instagram business suite scheduler
+- **Paid option:** Later, Buffer, Hootsuite (for cross-platform consistency)
+- **Start:** Native tools first, upgrade if you need analytics
+
+---
+
+## Key metrics to track (for pivoting)
+
+- Which LinkedIn posts get most engagement (build vs learning vs cricket)
+- Which Instagram posts drive most Dear Art inquiries
+- Which 100 days builds get most follow-up questions (those become courses)
+- Email open rates by content type
+- YouTube watch time by video type
+
+Review weekly and adjust next week's content mix accordingly.
