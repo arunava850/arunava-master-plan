@@ -126,25 +126,25 @@ https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main
 
 ### Common file URLs
 
-| File | URL |
-|---|---|
-| Home | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/HOME.md` |
-| SKILL | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/skill/SKILL.md` |
-| Big picture | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/big-picture.md` |
-| Flywheel | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/flywheel.md` |
-| Audiences | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/audiences.md` |
-| Brand architecture | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/brand-architecture.md` |
-| Positioning | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/10-identity/positioning.md` |
-| LinkedIn posts | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/10-identity/linkedin-posts.md` |
-| 100 days overview | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/20-100-days/overview.md` |
-| Build ideas | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/20-100-days/build-ideas.md` |
-| Build log | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/20-100-days/build-log.md` |
-| Cricket roadmap | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/30-cricket-analytics/roadmap.md` |
-| Content engine | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/40-content-engine/system.md` |
-| Revenue streams | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/50-revenue-streams/overview.md` |
-| Artist service | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/50-revenue-streams/artist-service.md` |
-| Website architecture | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/60-website/architecture.md` |
-| Certifications | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/70-certifications/path.md` |
+| File                 | URL                                                                                                                     |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Home                 | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/HOME.md`                              |
+| SKILL                | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/skill/SKILL.md`                       |
+| Big picture          | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/big-picture.md`           |
+| Flywheel             | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/flywheel.md`              |
+| Audiences            | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/audiences.md`             |
+| Brand architecture   | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/brand-architecture.md`    |
+| Positioning          | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/10-identity/positioning.md`           |
+| LinkedIn posts       | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/10-identity/linkedin-posts.md`        |
+| 100 days overview    | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/20-100-days/overview.md`              |
+| Build ideas          | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/20-100-days/build-ideas.md`           |
+| Build log            | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/20-100-days/build-log.md`             |
+| Cricket roadmap      | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/30-cricket-analytics/roadmap.md`      |
+| Content engine       | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/40-content-engine/system.md`          |
+| Revenue streams      | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/50-revenue-streams/overview.md`       |
+| Artist service       | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/50-revenue-streams/artist-service.md` |
+| Website architecture | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/60-website/architecture.md`           |
+| Certifications       | `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/70-certifications/path.md`            |
 
 ---
 
