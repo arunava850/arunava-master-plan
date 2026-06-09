@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "687f3d803c66be03",
+        "id": "1b0e0afff369fd87",
         "type": "tabs",
         "children": [
           {
-            "id": "3cd6d345e9b24b60",
+            "id": "255fdbc999bd5cc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-content-engine/content-ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "content-ideas"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -194,10 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cd6d345e9b24b60",
+  "active": "255fdbc999bd5cc7",
   "lastOpenFiles": [
-    "20-100-days/build-ideas.md",
+    "Untitled 1.canvas",
+    "Untitled 1.base",
+    "2026-06-09.md",
     "40-content-engine/content-ideas.md",
+    "20-100-days/build-ideas.md",
     "40-content-engine/system.md",
     "50-revenue-streams/overview.md",
     "50-revenue-streams/artist-service.md",
