@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-overview/ideas-backlog.md",
+                "file": "10-identity/personal-growth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ideas-backlog"
+              "title": "personal-growth"
             }
           }
         ]
@@ -196,16 +196,17 @@
   },
   "active": "ba2135af045efa4a",
   "lastOpenFiles": [
-    "40-content-engine/content-ideas.md",
-    "00-overview/ideas-backlog.md",
+    "10-identity/positioning.md",
+    "20-100-days/overview.md",
     "20-100-days/build-ideas.md",
+    "00-overview/ideas-backlog.md",
+    "10-identity/personal-growth.md",
+    "40-content-engine/content-ideas.md",
     "30-cricket-analytics/roadmap.md",
     "50-revenue-streams/artist-service.md",
-    "20-100-days/overview.md",
     "20-100-days/build-log.md",
     "50-revenue-streams/overview.md",
     "10-identity/linkedin-posts.md",
-    "10-identity/positioning.md",
     "00-overview/what-to-do-first.md",
     "00-overview/pending-questions.md",
     "00-overview/flywheel.md",
@@ -224,7 +225,6 @@
     "40-content-engine/system.md",
     "60-website/architecture.md",
     "70-certifications/path.md",
-    "90-resources/github-obsidian-setup.md",
-    "90-resources/HOME.md"
+    "90-resources/github-obsidian-setup.md"
   ]
 }
