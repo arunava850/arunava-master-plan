@@ -21,9 +21,21 @@
 
 ## Backlog
 
-*(Empty — first idea goes here)*
-
+- **Life Book creation** - Create based on knowledge and reference from John `#personal-growth` `#parked`  
+- **Think and grow reach statement** - Build this with help of Claude and use it for manifestation `#personal-growth` `#promising`
+- 
 ---
+## In Progress
+
+- **Five Year Future Exercise**  - Complete in personal growth section `#personal-growth`  `#promising`
+- **Mindvalley Experience, Growth, contribution Update** - Complete and keep updating in future under personal growth section `#personal-growth` `#promising 
+---
+
+## Completed
+
+- 
+---
+
 
 <!-- Template — copy and fill
 - **[Idea title]** `#category` `#status`  
