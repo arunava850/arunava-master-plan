@@ -1,103 +1,99 @@
 # Positioning
 
+> Last updated: 2026-06-09 Rule: this file feeds LinkedIn, site copy, and how you describe yourself everywhere. If something changes about who you are or who you serve — update here first.
+
+---
+
 ## Core identity statement
 
-> "Enterprise engineer turned AI builder — teaching everything I learn along the way."
+> "I help emerging talent — artists, models, players, and entrepreneurs — build their presence and business through technology, inspiration, and real-world knowledge."
 
 ---
 
-## LinkedIn headline (UPDATED April 22, 2026)
+## Primary audience
 
-**Recommended — READY TO USE:**
-```
-Building AI tools & cricket analytics in public | SAP BTP Architect | 20 yrs enterprise systems → shipping real solutions
-```
+**Primary:** Emerging female talent — artists, models, players, aspiring entrepreneurs — who want to build their presence, business, or life but need inspiration, guidance, and practical help.
 
-**Alternative options:**
-- `AI Builder | Cricket Analytics | Turning 20 yrs enterprise experience into public builds & data insights`
-- `Building in public: AI tools, cricket analytics, artist websites | SAP BTP Architect | 20 yrs systems design`
+**Secondary:** Non-technical people who want to understand and use technology in their future but feel it's not for them yet.
+
+**Proof point:** Debasree — artist, built a real course business and online presence. Not hypothetical. Already done.
 
 ---
 
-## LinkedIn About — UPDATED April 22, 2026 (READY TO PASTE)
+## The four pillars
 
-I've spent 20 years inside complex enterprise systems — SAP S/4HANA, cloud architecture, infrastructure. What I learned: the best insights come from building things yourself.
-
-So I'm doing it publicly now.
-
-I'm shipping AI tools, building cricket analytics from scratch, and creating websites for artists. Not as side experiments — as real products I'm documenting along the way. No hype. Just honest work.
-
-Why? Because I've always believed the best learning happens when you're building something that matters to you. And I believe the best knowledge comes from showing the work, not hiding it.
-
-What drives me:
-→ Cricket analytics — applying Python, ML, and data engineering to a sport I love
-→ AI tools — using Claude, Cursor, and modern AI to solve real problems faster
-→ Artist platforms — helping creators sell their work and teach online
-→ System design — translating 20 years of enterprise experience into practical solutions
-
-My background: 20 years across Infosys, PwC, IBM, TCS, and now Sims Limited. SAP BTP Solution Architect. ABAP Cloud Developer. But what matters more is what I'm building right now.
-
-Currently exploring:
-→ Cricket data insights (franchise leagues, international formats)
-→ Multi-agent AI systems with Claude
-→ Course platforms and artist websites
-
-Education: Jadavpur University — Electrical Engineering
-Certifications: SAP BTP Solution Architect · ABAP Cloud Developer · CAP
-
-Always learning. Always building. You'll see the work here.
+|Pillar|What you do|What it proves|
+|---|---|---|
+|**AI Builder**|Build real tools with AI, document everything publicly|You practice what you teach|
+|**Inspire & Connect**|Connect with and uplift emerging female talent|You care about people, not just output|
+|**Knowledge Sharing**|Spiritual, inspirational, financial life knowledge via blogs, social, 1-1 consultancy|You have wisdom worth sharing|
+|**Artist Service**|Done-for-you websites, niche builds, prompts via thedearart.com|You deliver real outcomes|
 
 ---
 
-## LinkedIn Intro Post — APPROVED (Ready to pin)
+## LinkedIn headline options
 
-I've been building for months and telling nobody.
+**Recommended:** `Helping Emerging Talent Build Their Presence · AI Builder · Spiritual & Life Knowledge · SAP BTP Architect`
 
-A comment system for online art courses. UI screens from Figma using Cursor. Cricket analytics dashboards. Small tools, real problems, shipped quietly.
+Alternatives:
 
-Why? Because I wasn't sure if any of it was worth sharing.
-
-But here's what I learned: the best way to learn is to build in public. Not for clout. Not for the algorithm. Just because it forces you to be honest about what works and what doesn't.
-
-So I'm changing that.
-
-Starting now, I'm documenting what I build — the wins, the failures, the honest decisions. No filters. No "perfect" projects. Just real work.
-
-Why should you care?
-
-→ If you're building AI tools, you'll see how I'm using Cursor and Claude to ship faster
-→ If you love cricket, you'll see data insights nobody's talking about
-→ If you're an artist or creator, you'll see how I'm thinking about platforms that help artists make money
-
-20 years of enterprise systems taught me one thing: the real value is in the *building*, not the resume.
-
-Let's build together.
-
-What are you working on right now?
-
-#Building #AI #Cricket #ShippingCode
+- `I Help Artists, Models & Entrepreneurs Build Online · AI Tools · Life & Business Knowledge`
+- `AI Builder · Inspiring Emerging Female Talent · Knowledge Sharing · thedearart.com`
+- `Enterprise Architect turned AI Builder · Helping Emerging Talent Grow · Inspiring Through Knowledge`
 
 ---
 
-## The three content pillars
+## LinkedIn About — rewritten (ready to paste)
 
-1. **AI + enterprise systems** — your depth, your credibility
-2. **Cricket analytics** — your niche, your most unique angle
-3. **Learning in public** — your teaching mission, your humanity
+Twenty years inside enterprise systems taught me that technology only matters when it helps real people do real things.
+
+I've spent those years building things that had to work — SAP S/4HANA implementations across global manufacturing and retail, cloud architecture on SAP BTP and Azure, data infrastructure that thousands of people depended on daily. That depth is what I bring to everything I build now.
+
+But what drives me today is different from what drove me then.
+
+I'm here to help emerging talent — artists, models, players, aspiring entrepreneurs — build their presence and business. People who have something real to offer the world but aren't sure how to get it in front of the right people, or how to turn what they do into something sustainable.
+
+I build AI tools that make that easier. I share what I know about business, technology, and life — through writing, direct conversations, and practical services. And I draw on 20 years of hard-won experience across consulting, systems, and life to inspire people who are just starting out.
+
+My partner Debasree is an artist who built a real online course business from nothing. I helped her build the systems and presence that made it work. That's not a case study — it's what's possible when the right knowledge meets the right effort.
+
+If you're an emerging artist, creator, or entrepreneur who wants to build something real — or if you're curious about what AI can actually do for someone like you — I'd love to connect.
+
+---
+
+Currently building: → 100 days of AI tools in public — starting with tools for artists and creators → Knowledge sharing platform at arunavamondal.com → Artist website and business service at thedearart.com
+
+---
+
+20 years: Infosys → PwC → IBM → TCS → Sims Limited → Ainsemble Jadavpur University — Electrical Engineering SAP Certified: BTP Solution Architect · ABAP Cloud Developer · CAP
 
 ---
 
 ## What NOT to lead with
 
+- ❌ Cricket analytics — parked, don't mention
 - ❌ "No CS degree" — never mention this
-- ❌ Your job title — lead with what you build
-- ❌ Years of experience as the headline — lead with output
+- ❌ Job title — lead with what you do for people
+- ❌ Years of experience as the headline — lead with impact
 - ❌ Certifications before builds — proof beats credentials
 
 ---
 
-## Notes on the no-CS-degree question
+## Content pillars mapped to platforms
 
-You don't need one. The most trusted AI teachers online are trusted because of what they build and share. Your 20 years of real systems, combined with active building, gives you more demonstrated competence than most certified candidates.
+|Platform|Primary pillar|Tone|
+|---|---|---|
+|LinkedIn|AI Builder + Knowledge Sharing|Professional, thoughtful, personal|
+|Instagram|Inspire & Connect + Artist Service|Warm, visual, community-led|
+|Facebook (Dear Art page)|Artist Service|Practical, trust-building|
+|arunavamondal.com blog|Knowledge Sharing|Deep, personal, authoritative|
 
-Lead with output. Let the builds speak.
+---
+
+## What makes this positioning defensible
+
+1. **20 years of real enterprise systems** — not a weekend learner
+2. **Actively building with AI** — not just talking about it
+3. **Debasree as live proof** — real artist, real business, real results
+4. **Personal wisdom layer** — spiritual, inspirational, financial knowledge most tech people don't have
+5. **Specific audience** — emerging female talent is underserved by most tech/AI voices

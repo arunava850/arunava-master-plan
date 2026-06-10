@@ -1,111 +1,74 @@
 # Arunava Mondal — Master Plan
 
-> *"I build real things with AI — and document everything so you don't have to figure it out alone."*
+> _"I help emerging talent build their presence, business, and life — through technology, inspiration, and real-world knowledge."_
 
-**Last updated:** April 22, 2026 — Social platforms live, LinkedIn ready
-**100 Days Project:** Day 1 Launch — Monday, April 27, 2026 (5 days away)
-**Status:** Execution phase → All platforms ready
+**Last updated:** 2026-06-09 **100 Days Project:** Day 0 of 100 — not started yet **Status:** Execution starting
+
+---
+
+## The four pillars
+
+|Pillar|What it is|Primary audience|
+|---|---|---|
+|**AI Builder**|Building real things with AI, documenting everything publicly|Non-tech people who want to use tech|
+|**Inspire & Connect**|Inspiring emerging female talent — artists, models, players, entrepreneurs|Emerging female talent|
+|**Knowledge Sharing**|Spiritual, inspirational, financial life knowledge via blogs, social, and 1-1 consultancy|Emerging female talent + broader|
+|**Artist Service**|Done-for-you websites, prompts, niche builds for artists via thedearart.com|Artists and creators|
+
+**Parked:** Cricket analytics (reassess at month 6)
 
 ---
 
 ## Quick navigation
 
-| Section | What's inside |
-|---|---|
-| [[00-overview/big-picture]] | The full vision, goals, and north star |
-| [[10-identity/positioning]] | Who you are, your story, LinkedIn About |
-| [[10-identity/linkedin-posts]] | Written posts ready to publish |
-| [[20-100-days/overview]] | The 100 day project — structure and rules |
-| [[20-100-days/build-ideas]] | All your scattered app and build ideas |
-| [[20-100-days/build-log]] | Running log of every completed build |
-| [[30-cricket-analytics/roadmap]] | Cricket analytics journey from zero |
-| [[30-cricket-analytics/data-sources]] | Datasets, tools, resources |
-| [[40-content-engine/system]] | Platform strategy and weekly rhythm |
-| [[40-content-engine/post-drafts]] | Drafted posts waiting to publish |
-| [[50-revenue-streams/overview]] | All 6 revenue streams |
-| [[50-revenue-streams/artist-service]] | Artist website service — pricing, Meta ads |
-| [[60-website/architecture]] | arunavamondal.com full sitemap and structure |
-| [[60-website/wordpress-setup]] | Plugins, custom post types, setup guide |
-| [[70-certifications/path]] | Certification plan and progress |
-| [[80-build-log/index]] | Master index of all builds by day |
-| [[90-resources/tools]] | Tools, links, references |
+> 💡 **Session start:** Paste `vault-urls.md` URL to Claude → it fetches everything else automatically. `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/vault-urls.md`
+
+|Section|What's inside|Raw URL|
+|---|---|---|
+|**vault-urls**|All raw URLs in one place|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/vault-urls.md|
+|[[00-overview/big-picture]]|Full vision, goals, north star|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/big-picture.md|
+|[[00-overview/what-to-do-first]]|Current priorities — update every week|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/what-to-do-first.md|
+|[[00-overview/ideas-backlog]]|General ideas — business, revenue, personal growth|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/ideas-backlog.md|
+|[[00-overview/audiences]]|Audience definitions and personas|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/audiences.md|
+|[[00-overview/brand-architecture]]|Brand structure across all properties|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/brand-architecture.md|
+|[[00-overview/flywheel]]|How the business flywheel works|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/flywheel.md|
+|[[10-identity/positioning]]|Who you are, audience, LinkedIn About|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/10-identity/positioning.md|
+|[[10-identity/linkedin-posts]]|Written posts ready to publish|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/10-identity/linkedin-posts.md|
+|[[10-identity/personal-growth]]|Living book — values, goals, five-year vision, spiritual|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/10-identity/personal-growth.md|
+|[[20-100-days/overview]]|100 day project — structure and rules|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/20-100-days/overview.md|
+|[[20-100-days/build-ideas]]|All build ideas|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/20-100-days/build-ideas.md|
+|[[20-100-days/build-log]]|Running log of every completed build|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/20-100-days/build-log.md|
+|[[50-revenue-streams/overview]]|All revenue streams|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/50-revenue-streams/overview.md|
+|[[50-revenue-streams/artist-service]]|thedearart.com — pricing, positioning, pipeline|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/50-revenue-streams/artist-service.md|
+|[[60-website/architecture]]|arunavamondal.com — sitemap and content structure|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/60-website/architecture.md|
+|[[90-resources/github-obsidian-setup]]|Tools, setup, references|https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/90-resources/github-obsidian-setup.md|
 
 ---
 
-## This week's focus (4 days left before Day 1)
+## This week's focus
 
-- [x] LinkedIn headline updated
-- [x] LinkedIn About section rewritten
-- [x] LinkedIn intro post drafted (matter-of-fact + vulnerable)
-- [x] Instagram @dearart live (6,579 followers, 26 following)
-- [x] Facebook Dear Art page live (email: hello@thedearart.com)
-- [x] Privacy Policy created and hosted on WordPress
-- [ ] Finalize LinkedIn intro post + pin it
-- [ ] Answer remaining 4 questions (Q8-Q11 in Notion)
-- [ ] Select Day 1 build (4-6 hours, documentable)
-- [ ] Map Days 2-7 loosely
-- [ ] Set up recording/documentation system
-- [ ] Final WordPress setup for arunavamondal.com
+- [ ] Set up WordPress on arunavamondal.com (Astra + Elementor)
+- [ ] Publish LinkedIn intro post (already drafted)
+- [ ] Lock Day 1 build — AI caption generator for artists
+- [ ] Fill Five-Year Future section in personal-growth.md
 
 ---
 
-## The three streams running in parallel
+## The four streams running in parallel
 
 ```
-Stream 1 — Document past builds → immediate LinkedIn content backlog (4 posts ready)
-Stream 2 — Build in public (100 days starting Monday) → authority + portfolio
-Stream 3 — Artist community hub (Dear Art) → Dear Art Facebook/Instagram + events + coaching
+Stream 1 — Document past builds        → immediate content backlog
+Stream 2 — Build in public (100 days)  → authority + portfolio
+Stream 3 — Identity + website          → foundation everything sits on
+Stream 4 — Inspire & connect           → emerging female talent via knowledge sharing
 ```
 
 ---
 
-## SESSION UPDATE — April 22, 2026
+## North star
 
-**What we completed today:**
-
-1. ✅ **Facebook Page for Dear Art**
-   - Profile: dearart3 handle
-   - Bio: Community-focused (events, coaching, live shows)
-   - Contact: hello@thedearart.com
-   - Privacy Policy linked: thedearart.com/privacy-policy/
-
-2. ✅ **Instagram @dearart Setup**
-   - Transferred existing followers (6,579)
-   - New bio: "Build Your Art Career / Professional websites, courses & events for artists"
-   - Profile picture: Dear Art logo (black on white)
-   - Web Designer category selected
-
-3. ✅ **Privacy Policy Created**
-   - Full HTML version ready
-   - Hosted on WordPress: thedearart.com/privacy-policy/
-   - Covers: data collection, courses, events, GDPR, CCPA
-
-4. ✅ **LinkedIn Profile Ready for Update**
-   - New headline drafted (3 options)
-   - About section rewritten (matter-of-fact + vulnerable)
-   - Intro post drafted (honest, building-focused, no 100 days mention)
+> Be known as someone who helps emerging female talent — artists, models, players, entrepreneurs — build their presence and business through technology, and inspires them through spiritual, financial, and life knowledge. Debasree is the proof. The community is the mission.
 
 ---
 
-## Key decisions locked in (SESSION 22 APR)
-
-- **Arthagu LLC** — umbrella company ✅
-- **dearart.com** — artist service brand ✅ (Instagram: @dearart3, Facebook: Dear Art)
-- **arunavamondal.com** — personal brand site ✅ (Domain registered)
-- **100 days launch** — Monday, April 27, 2026 ✅ (5 days away)
-- **LinkedIn strategy** — Build in public, matter-of-fact tone ✅
-- **Platform split** — LinkedIn (AI/cricket/builds) | IG/FB (@dearart = artist service) | X (@arunavamondal = cricket+AI)
-- **Email** — hello@thedearart.com for Dear Art service inquiries
-
----
-
-## Immediate next steps (before Monday)
-
-1. **Finalize LinkedIn** — Approve headline/About/post, then publish & pin
-2. **Answer Q8-Q11** — Day 1 build selection, Days 2-7 ideas, recording setup, website page priority
-3. **Day 1 Prep** — Select build, test recording, outline announcement
-4. **Content Backlog** — Write 4 LinkedIn posts (comment system x2, Figma UI x2)
-
----
-
-*This vault is maintained alongside Claude Project "Arunava — Build & Grow". Update this vault after every working session.*
+_Notion = doing and tracking. Obsidian = thinking and writing._ _GitHub: https://github.com/arunava850/arunava-master-plan_ _Update this vault after every working session._
