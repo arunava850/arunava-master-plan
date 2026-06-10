@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-identity/personal-growth.md",
+                "file": "VAULT-UPDATE-COMPLETE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "personal-growth"
+              "title": "VAULT-UPDATE-COMPLETE"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "ba2135af045efa4a",
   "lastOpenFiles": [
+    "10-identity/personal-growth.md",
     "00-overview/what-to-do-first.md",
     "10-identity/positioning.md",
     "HOME.md",
@@ -204,7 +205,6 @@
     "VAULT-UPDATE-COMPLETE.md",
     "20-100-days/build-ideas.md",
     "50-revenue-streams/artist-service.md",
-    "10-identity/personal-growth.md",
     "10-identity/linkedin-posts.md",
     "20-100-days/overview.md",
     "40-content-engine/content-ideas.md",
