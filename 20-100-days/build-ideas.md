@@ -35,6 +35,7 @@ If 3 of 4 are yes → build it.
 - [ ] AI automation audit tool — help small businesses find what to automate first. Lead gen for consulting.
 - [ ] Build log generator — paste rough notes about a build, get a formatted LinkedIn post. Meta and useful.
 - [ ] Claude API-powered content tool for artists — generates marketing copy specific to art businesses
+- [ ] Build: Indian ancient literature learning app
 
 ---
 
