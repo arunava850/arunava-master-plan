@@ -209,42 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "9125e3f88ea4f11e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a4541a9db4076e5f",
-        "type": "window",
-        "children": [
-          {
-            "id": "9b693f3d1ec9c482",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4a9765523e21a053",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 76,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4a9765523e21a053",
+  "active": "a0cc48543348e510",
   "lastOpenFiles": [
     "00-overview/what-to-do-first.md",
     "00-overview/backlog.md",
