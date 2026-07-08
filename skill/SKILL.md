@@ -1,215 +1,202 @@
-# SKILL.md — Arunava Mondal Master Plan Vault
+# Arunava Master Plan — Vault Loader
 
-## Purpose
-
-This skill tells Claude how to navigate, read, and update Arunava's Obsidian vault and Notion workspace. Read this file at the start of every session before giving advice or making updates.
+You've triggered the master plan vault loader. Follow ALL steps in order. Do not skip any step.
 
 ---
 
-## Who Arunava is
+## STEP 1 — Fetch vault-urls.md
 
-- **Name:** Arunava Mondal
+Fetch this URL first. It must appear in context before any other fetch:
+
+```
+https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/vault-urls.md
+```
+
+---
+
+## STEP 2 — Fetch all core vault files
+
+Immediately after Step 1, fetch ALL of these in sequence. These URLs are hardcoded here so they never need to be constructed from memory:
+
+```
+HOME:           https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/HOME.md
+BIG PICTURE:    https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/big-picture.md
+POSITIONING:    https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/10-identity/positioning.md
+PRIORITIES:     https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/what-to-do-first.md
+BUILD LOG:      https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/20-100-days/build-log.md
+WEEKLY PLAN:    https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/weekly-plan.md
+BACKLOG:        https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/backlog.md
+```
+
+Fetch every file. Do not skip any. Do not assume content from memory — always fetch fresh.
+
+For any other vault file needed during the session, get its URL from vault-urls.md — never construct URLs manually.
+
+---
+
+## STEP 3 — Confirm SESSION START ANCHOR
+
+Verify these decisions are still in place. If anything has changed, ask and update:
+
+1. **Arthagu LLC** is the umbrella company for everything
+2. **thedearart.com** — artist website service business, live
+3. **arunavamondal.com** — personal brand and authority hub, WordPress live
+4. **debasreedeyart.com** — Debasree's art courses, live and revenue-generating, primary Dear Art case study
+5. **Cricket analytics** — PARKED until month 6
+6. **100 Days project** — live, Day 1 shipped June 25 (FIFA World Cup 2026 Live Calendar, Cloudflare Workers)
+7. **Four pillars:** Authority / Services / Products / Community
+8. **Primary audience:** Emerging female talent (artists, models, players, entrepreneurs), female small business owners, influencers
+9. **Secondary audience:** Non-technical people wanting to adopt AI
+10. **Platform split:** LinkedIn = personal brand + 100 Days only (job privacy). Instagram/Facebook = Dear Art + Products + Community
+11. **Planning system:** Obsidian is the single source of truth. Notion is no longer used for task management.
+12. **Certs** (DeepLearning.AI, Azure AI) — still planned, timeline TBD, in backlog
+
+---
+
+## STEP 4 — Surface current priorities
+
+From `weekly-plan.md` and `what-to-do-first.md`, surface:
+
+- What's on for today
+- This week's non-negotiables
+- Any blocked items
+
+Ask what Arunava wants to work on.
+
+---
+
+## Who Arunava is (quick reference)
+
+- **Name:** Arunava Mondal | Ridgewood, NJ, US (originally India)
 - **LinkedIn:** linkedin.com/in/arunavamondal/
 - **GitHub vault:** https://github.com/arunava850/arunava-master-plan
-- **Current job:** Works at Sims Limited / Ainsemble — building with Cursor and AI
-- **Side hustle:** Kept private from employer — never suggest LinkedIn for service promotion
-- **Location:** New Jersey, US (originally from India)
-- **Background:** 20 years enterprise engineering — SAP S/4HANA, BTP, Azure — across Infosys, PwC, IBM, TCS
+- **Day job:** Ainsemble — AI builds with Cursor
+- **Side business:** Arthagu LLC — private from employer. Never suggest LinkedIn for service promotion
+- **Background:** 20 years enterprise engineering — SAP S/4HANA, BTP, Azure — Infosys, PwC, IBM, TCS, Sims Limited
 - **Education:** Jadavpur University — Electrical Engineering
-- **Certifications:** SAP BTP Solution Architect, ABAP Cloud Developer, CAP
-- **Wife:** Debasree — runs debasreedeyart.com (art courses — live and revenue generating)
-- **Interest:** Cricket (deeply passionate — starting cricket analytics from zero publicly)
+- **Certs:** SAP BTP Solution Architect, ABAP Cloud Developer, CAP
+- **Partner:** Debasree — runs debasreedeyart.com (art courses — live, revenue-generating)
 - **Goal:** Build independent career and income — free from traditional employment
 
 ---
 
-## SESSION START ANCHOR — confirm these every session
+## The four pillars
 
-At the start of every session, before anything else, confirm these key decisions are still in place. If anything has changed, ask Arunava and update accordingly.
+|Pillar|What it is|Audience|
+|---|---|---|
+|**Authority**|arunavamondal.com, 100 Days of Building, personal brand, credibility|Broad — anyone assessing credibility|
+|**Services**|Teaching, coaching, consulting — 1-on-1 and small group|Female emerging talent, small business owners, influencers|
+|**Products**|Books/flyers, tools, done-for-you website building (thedearart.com)|Same as Services, plus artists specifically|
+|**Community**|Connecting with influential people, embedding in niche communities for visibility|Influencers and connectors who amplify reach|
 
-1. **Arthagu LLC** is the umbrella company for everything
-2. **dearart.com** is the likely brand for artist website service — PENDING Debasree's confirmation
-3. **arunavamondal.com** is the personal brand site
-4. **arthagu.com** is parked — activate later as umbrella company page
-5. **Cricket analytics** is a personal brand pillar under Arunava Mondal — NOT a separate academy yet. May spin into CricLaw Academy at month 6 if traction is proven.
-6. **100 days project** is the main engine driving content, authority, and portfolio
-7. **Platform split:** LinkedIn = AI/cricket/builds only. Instagram + Facebook = artist service (Arthagu brand) only. X = cricket + AI tips. No crossover. Job privacy.
-8. **Two systems:** Obsidian = thinking/writing/reference. Notion = tracking/doing/managing.
-9. **No CS degree** — never bring up. Lead with builds and output always.
+**Parked:** Cricket analytics (reassess month 6)
 
 ---
 
-## Notion workspace
+## Active websites
 
-**Home page:** https://www.notion.so/34a290a75654814495d4cde710700ebc
-
-| Database | What it tracks |
-|---|---|
-| 📋 Master Tasks | All tasks — status, phase, stream, priority |
-| 🔨 100 Days Build Log | Every completed build |
-| 📅 Content Calendar | Posts — platform, status, publish date |
-| 💰 Revenue Tracker | Clients, sales, pipeline |
-| 📊 KPI Dashboard | LinkedIn followers, email list, revenue |
-| ❓ Pending Questions | Questions awaiting Arunava's answers |
-| 🗂️ Reference | Key strategy decisions |
-
-**At session start:** Check ❓ Pending Questions in Notion — if any have been answered, act on them immediately.
-
-**At session end:** Update relevant Notion databases with any new tasks, build entries, or content items created during the session.
+|Site|Status|Purpose|
+|---|---|---|
+|arunavamondal.com|WordPress live, content in progress|Personal authority hub|
+|thedearart.com|Live|Artist website service business|
+|debasreedeyart.com|Live, revenue|Debasree's art courses — primary Dear Art case study|
 
 ---
 
-## GitHub repository (permanent)
+## Notion workspace (reference only — not used for task management)
 
-```
-Repo:     https://github.com/arunava850/arunava-master-plan
-Raw base: https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/
-```
-
-**Key file URLs — fetch these every session:**
-```
-SKILL:      https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/skill/SKILL.md
-HOME:       https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/HOME.md
-BUILD LOG:  https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/20-100-days/build-log.md
-PRIORITIES: https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/what-to-do-first.md
-```
-
-**Any file:** `https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/[folder]/[file].md`
+|Database/Page|ID|What it tracks|
+|---|---|---|
+|Independence Plan (parent)|34a290a7-5654-8144-95d4-cde710700ebc|Top-level home|
+|❓ Pending Questions|34a290a7-5654-8159-9723-f3ca4f0f3b29|Open questions|
+|📋 Master Tasks|d06bc9f4-3f14-4629-a049-6f2f206a44fb|Deprecated — moved to Obsidian|
 
 ---
 
-## How to start every session
-
-1. Fetch the 4 key files above using web_fetch
-2. Read SKILL.md first — confirm the SESSION START ANCHOR above
-3. Check Notion ❓ Pending Questions for any answered questions
-4. Read HOME.md, build-log.md, what-to-do-first.md
-5. Ask what Arunava wants to work on today
-6. After session — generate updated vault files AND update Notion databases
-
----
-
-## Vault structure — complete file map
+## Vault file map
 
 ```
-HOME.md                              ← Start here every session
-SETUP.md                             ← Obsidian + GitHub setup guide
-README.md                            ← Full reference for syncing + what goes where
+HOME.md                          ← Fetched every session
+vault-urls.md                    ← Fetched every session (first)
 
 00-overview/
-  big-picture.md                     ← Full vision, goals, north star, 12-month milestones
-  flywheel.md                        ← The build→document→post→audience→revenue flywheel
-  audiences.md                       ← The 4 audiences in full detail
-  what-to-do-first.md                ← Narrative priority reference (live tasks in Notion)
-  brand-architecture.md              ← Domain strategy, social profiles, Arthagu LLC structure
-  pending-questions.md               ← Strategy context (live answers in Notion ❓)
+  big-picture.md                 ← Fetched every session
+  what-to-do-first.md            ← Fetched every session
+  weekly-plan.md                 ← Fetched every session
+  backlog.md                     ← Fetched every session
+  ideas-backlog.md
+  pending-questions.md
 
 10-identity/
-  positioning.md                     ← LinkedIn About, headline options, core positioning
-  linkedin-posts.md                  ← Post TEXT — drafts, ready, published
+  positioning.md                 ← Fetched every session
+  linkedin-posts.md
+  personal-growth.md
 
 20-100-days/
-  overview.md                        ← Full 100 day project — structure, all 100 days planned
-  build-ideas.md                     ← All app and build ideas (cricket, AI, artist tools)
-  build-log.md                       ← Longer build reflections (summary entries in Notion 🔨)
-
-30-cricket-analytics/
-  roadmap.md                         ← Full cricket analytics journey — phases 1–4
-  findings.md                        ← Data findings and notebook-style thinking (create when needed)
-
-40-content-engine/
-  system.md                          ← Platform strategy, weekly rhythm, post formats
-  post-drafts.md                     ← Posts in progress (create when needed)
+  overview.md
+  build-ideas.md
+  build-log.md                   ← Fetched every session
 
 50-revenue-streams/
-  overview.md                        ← All 6 revenue streams with timelines and projections
-  artist-service.md                  ← Artist website service — tiers, Meta ads, pipeline
+  overview.md
+  artist-service.md
 
 60-website/
-  architecture.md                    ← Full sitemap, /100days page, WordPress setup, plugins
-
-70-certifications/
-  path.md                            ← Certification plan, phases, progress tracker
+  architecture.md
 
 90-resources/
-  github-obsidian-setup.md           ← GitHub + Obsidian Git setup guide
-  tools.md                           ← Tools, links, references (create when needed)
+  github-obsidian-setup.md
 
-skill/
-  SKILL.md                           ← This file
+PARKED (do not fetch unless asked):
+  30-cricket-analytics/
+  40-content-engine/
+  70-certifications/
 ```
 
 ---
 
-## CRITICAL RULE — Artifact and content updates
+## SESSION END — mandatory update protocol
 
-**Every time Claude creates new content, plans, or decisions in a session:**
+Every session, before closing:
 
-1. Identify which vault file(s) AND which Notion database(s) the content belongs in
-2. Generate updated markdown for Obsidian files
-3. Update Notion databases directly via MCP
-4. Tell Arunava exactly which vault files to paste and sync
-5. Always end a session with: "Here are the vault files to update: [list]"
+1. Identify which vault files were touched this session
+2. Generate updated markdown for any changed Obsidian files
+3. Update Notion directly via MCP only for Pending Questions (not tasks)
+4. Tell Arunava exactly which files to paste and push to GitHub
+5. End with: "Here are the vault files to update: [list]"
 
-**Where new content goes:**
+### Where new content goes
 
-| Content type | Obsidian | Notion |
-|---|---|---|
-| New LinkedIn post draft | `10-identity/linkedin-posts.md` | 📅 Content Calendar (status: Idea/Draft) |
-| Post published | — | 📅 Content Calendar (status: Published + URL) |
-| New build idea | `20-100-days/build-ideas.md` | — |
-| Completed build (reflection) | `20-100-days/build-log.md` | 🔨 100 Days Build Log (summary) |
-| Cricket data finding | `30-cricket-analytics/findings.md` | — |
-| New task or priority | `00-overview/what-to-do-first.md` | 📋 Master Tasks |
-| New client or sale | — | 💰 Revenue Tracker |
-| Weekly metrics | — | 📊 KPI Dashboard |
-| Pending question answered | — | ❓ Pending Questions |
-| Strategy or big picture change | Relevant Obsidian note | 🗂️ Reference if needed |
-
----
-
-## Key decisions already made
-
-- **Platform split:** LinkedIn = AI/cricket/builds only. Instagram + Facebook = artist service only. X = cricket + AI tips.
-- **Stack:** WordPress + Teachery + ConvertKit + Rank Math + Kadence theme
-- **First course:** Artist website course — build first (fastest market, proven stack)
-- **First revenue:** Artist website builds via Debasree referral + Meta ads
-- **100 days:** Three rotating themes — AI builds / Cricket analytics / Artist + web tools
-- **Certs:** Start with DeepLearning.AI immediately (free to audit)
-- **Website:** Custom post type for builds powers gallery automatically
-- **Obsidian/Notion split:** Obsidian = writing + thinking. Notion = tracking + doing.
-- **GitHub sync:** Claude reads via raw refs/heads/main URLs. Claude generates markdown. Arunava pastes into Obsidian. Obsidian Git auto-pushes.
+|Content type|Obsidian file|
+|---|---|
+|New build idea|`20-100-days/build-ideas.md`|
+|Completed build|`20-100-days/build-log.md`|
+|New LinkedIn post draft|`10-identity/linkedin-posts.md`|
+|New general idea|`00-overview/ideas-backlog.md`|
+|Personal growth entry|`10-identity/personal-growth.md`|
+|New task / priority (this week)|`00-overview/weekly-plan.md`|
+|New task / priority (future)|`00-overview/backlog.md`|
+|Strategy change|Relevant vault file + `big-picture.md` or `positioning.md`|
+|Pending question answered|Notion ❓ Pending Questions|
 
 ---
 
-## What Arunava has already built (to document as content)
+## Key decisions locked in
 
-- AI content generation for debasreedeyart.com
-- Automation(s) for debasreedeyart.com
-- AI builds at Ainsemble (share only what's appropriate — employer privacy)
-- Details pending in ❓ Pending Questions Q2 and Q3
-
----
-
-## Current priorities
-
-1. Publish and pin LinkedIn intro post ← ready in `10-identity/linkedin-posts.md`
-2. Write Day 1 of 100 announcement post
-3. Write Instagram/Facebook artist service post
-4. Confirm dearart.com brand name with Debasree ← Q1 in Notion ❓
-5. Talk to Debasree about first artist client referral
-6. Download first cricket dataset (Cricsheet.org)
-7. Register arunavamondal.com
-8. Create X / Twitter account
+- **Stack:** WordPress (Astra + Elementor) for arunavamondal.com
+- **Day 1 build:** FIFA World Cup 2026 Live Calendar (Cloudflare Workers) — shipped June 25
+- **100 Days themes:** AI tools / Knowledge sharing (educational apps, kids + adults) / Artist + web tools
+- **Planning system:** Obsidian only. weekly-plan.md = today + this week. what-to-do-first.md = next 4 weeks. backlog.md = month 2+.
+- **GitHub sync:** Claude reads via hardcoded URLs in this skill → generates markdown → Arunava pastes into Obsidian → Obsidian Git pushes
+- **Session start:** Say "load master plan vault" → Claude fetches all 7 core files in Steps 1–2
 
 ---
 
-## Tone and communication preferences
+## Tone and working style
 
-- Direct and concrete — give specific advice, not open-ended options
-- Structured plans preferred over broad discussion
-- Working full time — solutions must be realistic for limited hours
+- Direct and concrete — no open-ended options, specific advice
+- Challenge reasoning when warranted — no sycophancy
+- Realistic for limited hours (full-time job + side business)
 - Building for full independence, not just extra income
-- Teaching dream is genuine and important — not secondary to building
-- Technically strong but values the full picture, not just code
-- Responds well to honest pushback when it's constructive
+- Always ask "what's blocking this?" before adding more scope
+- Never mention no CS degree — lead with builds and output always
