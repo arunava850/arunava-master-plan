@@ -8,11 +8,11 @@
 
 ## Core
 
-| File | Raw URL |
-|---|---|
-| HOME | https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/HOME.md |
+| File   | Raw URL                                                                                    |
+| ------ | ------------------------------------------------------------------------------------------ |
+| HOME   | https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/HOME.md   |
 | README | https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/README.md |
-| SETUP | https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/SETUP.md |
+| SETUP  | https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/SETUP.md  |
 
 ## 00-overview
 
