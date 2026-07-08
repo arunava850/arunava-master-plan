@@ -1,34 +1,49 @@
 # Big picture
 
+**Last updated:** 2026-07-08
+
 ## The goal
 
 Build a fully independent career and business — free from traditional employment — by combining:
+
 - 20 years of enterprise engineering depth
-- Active AI building and shipping
-- Cricket analytics (starting from zero, publicly)
-- Teaching and coaching
+- Active AI building and shipping, documented publicly
+- Direct teaching, coaching, and consulting
+- Products — books, tools, done-for-you services
 - A live, revenue-generating digital business model
 
-**Timeline pressure:** Low — currently employed at Sims Limited / Ainsemble. Building on the side.
+**Timeline pressure:** Low — currently employed at Ainsemble. Building on the side.
 
 ---
 
 ## The north star
 
-> Be known as the person who builds real things with AI, documents everything, and teaches others what they need to know — across enterprise systems, cricket analytics, and the creator economy.
+> Be known as the person who builds real things with AI, documents everything, and helps emerging female talent and small business owners grow — through authority, direct services, products, and the right community.
 
 ---
 
 ## What makes you different
 
-| What you have | Why it matters |
+|What you have|Why it matters|
 |---|---|
-| 20 years enterprise systems (SAP, Azure, BTP) | Real-world credibility no bootcamp can match |
-| Active AI builder at Ainsemble | Current, practical, not theoretical |
-| Live revenue-generating course business | You've already solved the hardest problems |
-| Cricket passion + data background | Near-zero competition in a massive global niche |
-| Teaching instinct | 20 years explaining complex systems simply |
-| debasreedeyart.com as reference + warm audience | Fastest path to first freelance clients |
+|20 years enterprise systems (SAP, Azure, BTP)|Real-world credibility no bootcamp can match|
+|Active AI builder, shipping in public|Current, practical, not theoretical|
+|Live revenue-generating course business (Debasree)|You've already solved the hardest problems|
+|Teaching instinct|20 years explaining complex systems simply|
+|debasreedeyart.com as reference + warm audience|Fastest path to first clients|
+
+---
+
+## The four pillars
+
+|Pillar|What it is|Primary audience|
+|---|---|---|
+|**Authority**|arunavamondal.com, 100 Days of Building, personal brand|Broad — anyone assessing credibility|
+|**Services**|Teaching, coaching, consulting — 1-on-1 and small group|Emerging female talent, female small business owners, influencers|
+|**Products**|Books/flyers, tools, website building (thedearart.com)|Same as Services, plus artists, models, players specifically|
+|**Community**|Connecting with influential people, presence in niche communities|Influencers and connectors who amplify reach|
+
+**Parked:** Cricket analytics — reassess month 6.
 
 ---
 
@@ -43,7 +58,7 @@ POST it on 3 platforms
     ↓
 AUDIENCE grows + trusts you
     ↓
-People hire you or buy your course
+People hire you, join Services, or buy Products
     ↓
 Revenue funds more building
     ↓
@@ -52,47 +67,47 @@ Revenue funds more building
 
 ---
 
-## The 6 revenue streams
+## Revenue streams
 
-| Stream | Timeline | Range |
-|---|---|---|
-| Artist website builds | Fastest — weeks | $500–$2,000/site |
-| AI consulting | 2–4 weeks | $100–$200/hr |
-| Courses | 6–8 weeks | $97–$497 each |
-| YouTube + sponsorships | 3–6 months | $500–$5,000/mo |
-| Productised tools / SaaS | 6–12 months | $9–$49/mo |
-| Coaching | 12+ months | $200–$500/session |
+|Stream|Pillar|Timeline|Range|
+|---|---|---|---|
+|Artist website builds|Products|Fastest — weeks|$500–$2,000/site|
+|Coaching / consulting|Services|2–4 weeks to first client|$100–$200/hr|
+|Books / flyers / guides|Products|4–8 weeks|$5–$47 each|
+|Courses|Services + Products|6–8 weeks|$97–$497 each|
+|Community / membership|Community|6–12 months|TBD|
+|Productised tools|Products|6–12 months|$9–$49/mo|
 
 → Full detail: [[50-revenue-streams/overview]]
 
 ---
 
-## The 4 audiences
-
-1. **Enterprise professionals** — SAP/IBM/TCS-world wanting to learn AI
-2. **Cricket data fans** — engineers and analysts globally, India-heavy
-3. **Artists going digital** — painters and creators wanting to sell online
-4. **Aspiring AI builders** — non-CS background, learning with Cursor and AI tools
-
----
-
 ## Platform split (important — job privacy)
 
-| Platform | What goes here |
+|Platform|What goes here|
 |---|---|
-| LinkedIn | AI builds, cricket analytics, build-in-public. NO service promotion. |
-| X / Twitter | Cricket hot takes, AI tips, tech. Safe from employer visibility. |
-| Instagram | Artist tools, website builds, visual content |
-| Facebook | Artist website service, Meta ads, artist communities |
-| YouTube | Screen recordings of builds. Start recording now, publish at 5 videos. |
-| Website | Every build = a blog post. SEO engine. |
+|LinkedIn|AI builds, 100 Days, build-in-public, Services visibility. NO explicit service promotion.|
+|X / Twitter|AI tips, tech observations. Safe from employer visibility.|
+|Instagram (@dearart3)|Artist tools, website builds, Community, Products|
+|Facebook (Dear Art page)|Artist website service, Meta ads, artist communities|
+|YouTube|Screen recordings of builds. Start recording, publish at 5 videos.|
+|Website (arunavamondal.com)|Every build = a blog post. SEO engine for Authority.|
 
 ---
 
 ## 12-month milestone map
 
-- **Month 1–2:** Identity live, content rhythm established, first artist client
-- **Month 3–4:** 100 days underway, first cricket analysis published, website live
-- **Month 5–6:** First course launched, DeepLearning.AI cert complete
-- **Month 7–9:** Cricket analytics course, Azure AI cert, consulting enquiries
+- **Month 1–2:** 100 Days live (Day 1 shipped June 25), identity live, first artist client
+- **Month 3–4:** 100 Days underway, first book/flyer published, website content rhythm established
+- **Month 5–6:** First course or coaching offer launched, cricket analytics reassessed
+- **Month 7–9:** Community/connection strategy active, consulting enquiries flowing
 - **Month 10–12:** Multiple revenue streams active, independence pathway clear
+
+---
+
+## Backlog — planned, timeline TBD
+
+- DeepLearning.AI certification
+- Azure AI certification
+
+→ Full backlog: [[00-overview/backlog]]

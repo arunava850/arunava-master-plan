@@ -1,7 +1,6 @@
 # Positioning
 
-> Last updated: 2026-07-08
-> Rule: this file feeds LinkedIn, site copy, and how you describe yourself everywhere. If something changes about who you are or who you serve — update here first.
+> Last updated: 2026-07-08 Rule: this file feeds LinkedIn, site copy, and how you describe yourself everywhere. If something changes about who you are or who you serve — update here first.
 
 ---
 
@@ -23,12 +22,12 @@
 
 ## The four pillars
 
-| Pillar | What you do | What it proves |
+|Pillar|What you do|What it proves|
 |---|---|---|
-| **Authority** | Build real tools with AI, document everything publicly — 100 Days project, arunavamondal.com | You practice what you teach |
-| **Services** | Teach, coach, consult — direct 1-on-1 and small group work | You can transfer what you know |
-| **Products** | Books/flyers, tools, done-for-you website building via thedearart.com | You deliver real outcomes |
-| **Community** | Connect with influential people, embed in the right niche communities for visibility | You're building reach, not just content |
+|**Authority**|Build real tools with AI, document everything publicly — 100 Days project, arunavamondal.com|You practice what you teach|
+|**Services**|Teach, coach, consult — direct 1-on-1 and small group work|You can transfer what you know|
+|**Products**|Books/flyers, tools, done-for-you website building via thedearart.com|You deliver real outcomes|
+|**Community**|Connect with influential people, embed in the right niche communities for visibility|You're building reach, not just content|
 
 **Parked:** Cricket analytics — reassess month 6.
 
@@ -39,6 +38,7 @@
 **Recommended:** `Building AI Tools in Public · Helping Emerging Female Talent & Small Business Owners Grow · SAP BTP Architect`
 
 Alternatives:
+
 - `AI Builder · Coaching Emerging Female Entrepreneurs · thedearart.com`
 - `I Help Female Creators & Business Owners Build Online · AI Tools · Real Systems`
 - `Enterprise Architect turned AI Builder · Teaching, Building, Connecting`
@@ -63,16 +63,11 @@ If you're an emerging creator or business owner who wants to build something rea
 
 ---
 
-Currently building:
-→ 100 Days of Building — Day 1 shipped: FIFA World Cup 2026 Live Calendar (wc2026-calendar.arthagu.workers.dev)
-→ Knowledge sharing platform at arunavamondal.com
-→ Artist website and business service at thedearart.com
+Currently building: → 100 Days of Building — Day 1 shipped: FIFA World Cup 2026 Live Calendar (wc2026-calendar.arthagu.workers.dev) → Knowledge sharing platform at arunavamondal.com → Artist website and business service at thedearart.com
 
 ---
 
-20 years: Infosys → PwC → IBM → TCS → Sims Limited → Ainsemble
-Jadavpur University — Electrical Engineering
-SAP Certified: BTP Solution Architect · ABAP Cloud Developer · CAP
+20 years: Infosys → PwC → IBM → TCS → Sims Limited → Ainsemble Jadavpur University — Electrical Engineering SAP Certified: BTP Solution Architect · ABAP Cloud Developer · CAP
 
 ---
 
@@ -89,12 +84,12 @@ SAP Certified: BTP Solution Architect · ABAP Cloud Developer · CAP
 
 ## Content pillars mapped to platforms
 
-| Platform | Primary pillar | Tone |
+|Platform|Primary pillar|Tone|
 |---|---|---|
-| LinkedIn | Authority + Services | Professional, thoughtful, personal |
-| Instagram (@dearart3) | Community + Products | Warm, visual, community-led |
-| Facebook (Dear Art page) | Products | Practical, trust-building |
-| arunavamondal.com blog | Authority | Deep, personal, authoritative |
+|LinkedIn|Authority + Services|Professional, thoughtful, personal|
+|Instagram (@dearart3)|Community + Products|Warm, visual, community-led|
+|Facebook (Dear Art page)|Products|Practical, trust-building|
+|arunavamondal.com blog|Authority|Deep, personal, authoritative|
 
 ---
 
