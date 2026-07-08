@@ -1,20 +1,21 @@
 # Positioning
 
-> Last updated: 2026-06-09 Rule: this file feeds LinkedIn, site copy, and how you describe yourself everywhere. If something changes about who you are or who you serve — update here first.
+> Last updated: 2026-07-08
+> Rule: this file feeds LinkedIn, site copy, and how you describe yourself everywhere. If something changes about who you are or who you serve — update here first.
 
 ---
 
 ## Core identity statement
 
-> "I help emerging talent — artists, models, players, and entrepreneurs — build their presence and business through technology, inspiration, and real-world knowledge."
+> "I build real things with AI, document everything, and help emerging female talent and small business owners grow — through direct teaching, tools, and the right connections."
 
 ---
 
 ## Primary audience
 
-**Primary:** Emerging female talent — artists, models, players, aspiring entrepreneurs — who want to build their presence, business, or life but need inspiration, guidance, and practical help.
+**Primary:** Emerging female talent — artists, models, players, aspiring entrepreneurs — and female small business owners and influencers who want to build their presence and grow their business.
 
-**Secondary:** Non-technical people who want to understand and use technology in their future but feel it's not for them yet.
+**Secondary:** Non-technical people who want to understand and use AI in their work but feel it's not for them yet.
 
 **Proof point:** Debasree — artist, built a real course business and online presence. Not hypothetical. Already done.
 
@@ -22,28 +23,29 @@
 
 ## The four pillars
 
-|Pillar|What you do|What it proves|
+| Pillar | What you do | What it proves |
 |---|---|---|
-|**AI Builder**|Build real tools with AI, document everything publicly|You practice what you teach|
-|**Inspire & Connect**|Connect with and uplift emerging female talent|You care about people, not just output|
-|**Knowledge Sharing**|Spiritual, inspirational, financial life knowledge via blogs, social, 1-1 consultancy|You have wisdom worth sharing|
-|**Artist Service**|Done-for-you websites, niche builds, prompts via thedearart.com|You deliver real outcomes|
+| **Authority** | Build real tools with AI, document everything publicly — 100 Days project, arunavamondal.com | You practice what you teach |
+| **Services** | Teach, coach, consult — direct 1-on-1 and small group work | You can transfer what you know |
+| **Products** | Books/flyers, tools, done-for-you website building via thedearart.com | You deliver real outcomes |
+| **Community** | Connect with influential people, embed in the right niche communities for visibility | You're building reach, not just content |
+
+**Parked:** Cricket analytics — reassess month 6.
 
 ---
 
 ## LinkedIn headline options
 
-**Recommended:** `Helping Emerging Talent Build Their Presence · AI Builder · Spiritual & Life Knowledge · SAP BTP Architect`
+**Recommended:** `Building AI Tools in Public · Helping Emerging Female Talent & Small Business Owners Grow · SAP BTP Architect`
 
 Alternatives:
-
-- `I Help Artists, Models & Entrepreneurs Build Online · AI Tools · Life & Business Knowledge`
-- `AI Builder · Inspiring Emerging Female Talent · Knowledge Sharing · thedearart.com`
-- `Enterprise Architect turned AI Builder · Helping Emerging Talent Grow · Inspiring Through Knowledge`
+- `AI Builder · Coaching Emerging Female Entrepreneurs · thedearart.com`
+- `I Help Female Creators & Business Owners Build Online · AI Tools · Real Systems`
+- `Enterprise Architect turned AI Builder · Teaching, Building, Connecting`
 
 ---
 
-## LinkedIn About — rewritten (ready to paste)
+## LinkedIn About — ready to paste
 
 Twenty years inside enterprise systems taught me that technology only matters when it helps real people do real things.
 
@@ -51,21 +53,26 @@ I've spent those years building things that had to work — SAP S/4HANA implemen
 
 But what drives me today is different from what drove me then.
 
-I'm here to help emerging talent — artists, models, players, aspiring entrepreneurs — build their presence and business. People who have something real to offer the world but aren't sure how to get it in front of the right people, or how to turn what they do into something sustainable.
+I'm here to help emerging female talent, small business owners, and creators build their presence and grow their business. Artists, models, players, entrepreneurs — people who have something real to offer but aren't sure how to get it in front of the right people, or how to turn what they do into something sustainable.
 
-I build AI tools that make that easier. I share what I know about business, technology, and life — through writing, direct conversations, and practical services. And I draw on 20 years of hard-won experience across consulting, systems, and life to inspire people who are just starting out.
+I build AI tools in public and document everything — 100 Days of Building is the current project. I teach and coach directly. I'm building products — starting with small books and guides, alongside done-for-you website builds through thedearart.com. And I'm working to connect with the right people and communities to help this reach further than I can alone.
 
 My partner Debasree is an artist who built a real online course business from nothing. I helped her build the systems and presence that made it work. That's not a case study — it's what's possible when the right knowledge meets the right effort.
 
-If you're an emerging artist, creator, or entrepreneur who wants to build something real — or if you're curious about what AI can actually do for someone like you — I'd love to connect.
+If you're an emerging creator or business owner who wants to build something real — or if you're curious what AI can actually do for someone like you — I'd love to connect.
 
 ---
 
-Currently building: → 100 days of AI tools in public — starting with tools for artists and creators → Knowledge sharing platform at arunavamondal.com → Artist website and business service at thedearart.com
+Currently building:
+→ 100 Days of Building — Day 1 shipped: FIFA World Cup 2026 Live Calendar (wc2026-calendar.arthagu.workers.dev)
+→ Knowledge sharing platform at arunavamondal.com
+→ Artist website and business service at thedearart.com
 
 ---
 
-20 years: Infosys → PwC → IBM → TCS → Sims Limited → Ainsemble Jadavpur University — Electrical Engineering SAP Certified: BTP Solution Architect · ABAP Cloud Developer · CAP
+20 years: Infosys → PwC → IBM → TCS → Sims Limited → Ainsemble
+Jadavpur University — Electrical Engineering
+SAP Certified: BTP Solution Architect · ABAP Cloud Developer · CAP
 
 ---
 
@@ -74,26 +81,27 @@ Currently building: → 100 days of AI tools in public — starting with tools f
 - ❌ Cricket analytics — parked, don't mention
 - ❌ "No CS degree" — never mention this
 - ❌ Job title — lead with what you do for people
-- ❌ Years of experience as the headline — lead with impact
+- ❌ Years of experience as the headline — lead with impact, use experience as proof
 - ❌ Certifications before builds — proof beats credentials
+- ❌ Enterprise professionals as target audience — not who this speaks to anymore
 
 ---
 
 ## Content pillars mapped to platforms
 
-|Platform|Primary pillar|Tone|
+| Platform | Primary pillar | Tone |
 |---|---|---|
-|LinkedIn|AI Builder + Knowledge Sharing|Professional, thoughtful, personal|
-|Instagram|Inspire & Connect + Artist Service|Warm, visual, community-led|
-|Facebook (Dear Art page)|Artist Service|Practical, trust-building|
-|arunavamondal.com blog|Knowledge Sharing|Deep, personal, authoritative|
+| LinkedIn | Authority + Services | Professional, thoughtful, personal |
+| Instagram (@dearart3) | Community + Products | Warm, visual, community-led |
+| Facebook (Dear Art page) | Products | Practical, trust-building |
+| arunavamondal.com blog | Authority | Deep, personal, authoritative |
 
 ---
 
 ## What makes this positioning defensible
 
 1. **20 years of real enterprise systems** — not a weekend learner
-2. **Actively building with AI** — not just talking about it
+2. **Actively building with AI** — not just talking about it, live proof via 100 Days
 3. **Debasree as live proof** — real artist, real business, real results
-4. **Personal wisdom layer** — spiritual, inspirational, financial knowledge most tech people don't have
-5. **Specific audience** — emerging female talent is underserved by most tech/AI voices
+4. **Direct services model** — teaching and coaching, not just content
+5. **Specific audience** — emerging female talent and small business owners underserved by most tech/AI voices
