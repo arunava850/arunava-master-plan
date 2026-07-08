@@ -2,66 +2,73 @@
 
 You've triggered the master plan vault loader. Follow ALL steps in order. Do not skip any step.
 
----
+**Source of truth: the local vault on disk. Never fetch from GitHub raw URLs — they lag, rate-limit, and have failed in practice. Always read files with the Filesystem connector.**
 
-## STEP 1 — Fetch vault-urls.md
-
-Fetch this URL first. It must appear in context before any other fetch:
-
+**Vault root:**
 ```
-https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/vault-urls.md
+/Users/arunavamondal/Documents/Business/Career/git-claude/arunava-master-plan/
 ```
 
 ---
 
-## STEP 2 — Fetch all core vault files
+## STEP 0 — Confirm connector access
 
-Immediately after Step 1, fetch ALL of these in sequence. These URLs are hardcoded here so they never need to be constructed from memory:
-
-```
-HOME:           https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/HOME.md
-BIG PICTURE:    https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/big-picture.md
-POSITIONING:    https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/10-identity/positioning.md
-PRIORITIES:     https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/what-to-do-first.md
-BUILD LOG:      https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/20-100-days/build-log.md
-WEEKLY PLAN:    https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/weekly-plan.md
-BACKLOG:        https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/backlog.md
-```
-
-Fetch every file. Do not skip any. Do not assume content from memory — always fetch fresh.
-
-For any other vault file needed during the session, get its URL from vault-urls.md — never construct URLs manually.
+Call `Filesystem:list_allowed_directories`. The vault root above must be inside an allowed directory. If it is not, stop and tell Arunava the Filesystem connector needs to be enabled/scoped for that folder — do not fall back to GitHub fetching, and do not reconstruct vault contents from memory.
 
 ---
 
-## STEP 3 — Confirm SESSION START ANCHOR
+## STEP 1 — Read the core vault files
 
-Verify these decisions are still in place. If anything has changed, ask and update:
+Read ALL of these in one `Filesystem:read_multiple_files` call. Paths are relative to the vault root above.
 
-1. **Arthagu LLC** is the umbrella company for everything
-2. **thedearart.com** — artist website service business, live
-3. **arunavamondal.com** — personal brand and authority hub, WordPress live
-4. **debasreedeyart.com** — Debasree's art courses, live and revenue-generating, primary Dear Art case study
-5. **Cricket analytics** — PARKED until month 6
-6. **100 Days project** — live, Day 1 shipped June 25 (FIFA World Cup 2026 Live Calendar, Cloudflare Workers)
-7. **Four pillars:** Authority / Services / Products / Community
-8. **Primary audience:** Emerging female talent (artists, models, players, entrepreneurs), female small business owners, influencers
-9. **Secondary audience:** Non-technical people wanting to adopt AI
-10. **Platform split:** LinkedIn = personal brand + 100 Days only (job privacy). Instagram/Facebook = Dear Art + Products + Community
-11. **Planning system:** Obsidian is the single source of truth. Notion is no longer used for task management.
-12. **Certs** (DeepLearning.AI, Azure AI) — still planned, timeline TBD, in backlog
+```
+HOME.md
+vault-urls.md
+00-overview/big-picture.md
+00-overview/weekly-plan.md
+00-overview/what-to-do-first.md
+00-overview/backlog.md
+00-overview/ideas-backlog.md
+10-identity/positioning.md
+20-100-days/build-log.md
+```
+
+If a file read fails, say so explicitly. Do not invent, guess, or paper over its contents from memory. A missing file is reported as missing.
+
+For any other file needed later in the session, get its path from `vault-urls.md`'s file list (use the file names, read locally — ignore the raw URLs in that file).
 
 ---
 
-## STEP 4 — Surface current priorities
+## STEP 2 — State the current state from what you just READ
 
-From `weekly-plan.md` and `what-to-do-first.md`, surface:
+Do NOT recite a hardcoded anchor. Read the actual current state out of the files and report it, including:
 
-- What's on for today
-- This week's non-negotiables
-- Any blocked items
+- Latest entry in `build-log.md` (which Day, shipped or not, published or not)
+- Today + This Week from `weekly-plan.md` (the daily operating file)
+- This week's non-negotiables from `what-to-do-first.md`
+- Any open decisions/questions in `backlog.md`
+- The four pillars and audience exactly as written in `HOME.md` / `positioning.md`
 
-Ask what Arunava wants to work on.
+**If files contradict each other** (e.g. build-log shows a build shipped but HOME.md still says "Day 0 not started"), flag the contradiction explicitly and ask which is correct before proceeding. Do not silently pick one.
+
+---
+
+## STEP 3 — Surface priorities and ask
+
+Surface:
+
+- **Today + This Week** from `weekly-plan.md` (this is the daily operating file — lead with it)
+- This week's non-negotiables from `what-to-do-first.md`
+- Anything unfinished or unpublished from `build-log.md` (an unshipped/unpublished build is the top priority per the decision rules)
+- Open decisions from `backlog.md` that are blocking work
+
+Then ask what Arunava wants to work on.
+
+---
+
+## Note on stale reference sections below
+
+The reference tables further down (pillars, decisions, "Day 1 shipped June 25", etc.) are a historical snapshot and may be out of date. The FILES are authoritative. When the files and these tables disagree, the files win — update the files if needed, and treat anything here as a hint only.
 
 ---
 
@@ -160,10 +167,12 @@ PARKED (do not fetch unless asked):
 Every session, before closing:
 
 1. Identify which vault files were touched this session
-2. Generate updated markdown for any changed Obsidian files
+2. Write the changes directly to the local vault files using `Filesystem:edit_file` (show the diff)
 3. Update Notion directly via MCP only for Pending Questions (not tasks)
-4. Tell Arunava exactly which files to paste and push to GitHub
-5. End with: "Here are the vault files to update: [list]"
+4. Tell Arunava which files changed, and that he still needs to run Obsidian Git: Push (or `git push`) to sync them to GitHub
+5. End with: "Files updated locally: [list]. Push when ready."
+
+**Never** hand back markdown to paste manually when the connector can write the file. Manual paste is what caused files to drift out of sync.
 
 ### Where new content goes
 
@@ -176,6 +185,7 @@ Every session, before closing:
 |Personal growth entry|`10-identity/personal-growth.md`|
 |New task / priority (this week)|`00-overview/weekly-plan.md`|
 |New task / priority (future)|`00-overview/backlog.md`|
+|Open decision / question|`00-overview/backlog.md` (Open Questions) or Notion Pending Questions|
 |Strategy change|Relevant vault file + `big-picture.md` or `positioning.md`|
 |Pending question answered|Notion ❓ Pending Questions|
 
@@ -186,9 +196,10 @@ Every session, before closing:
 - **Stack:** WordPress (Astra + Elementor) for arunavamondal.com
 - **Day 1 build:** FIFA World Cup 2026 Live Calendar (Cloudflare Workers) — shipped June 25
 - **100 Days themes:** AI tools / Knowledge sharing (educational apps, kids + adults) / Artist + web tools
-- **Planning system:** Obsidian only. weekly-plan.md = today + this week. what-to-do-first.md = next 4 weeks. backlog.md = month 2+.
-- **GitHub sync:** Claude reads via hardcoded URLs in this skill → generates markdown → Arunava pastes into Obsidian → Obsidian Git pushes
-- **Session start:** Say "load master plan vault" → Claude fetches all 7 core files in Steps 1–2
+- **Planning system:** Obsidian only. `weekly-plan.md` = Today + This Week (daily operating file). `what-to-do-first.md` = priorities across the 4-week horizon + monthly milestones. `backlog.md` = month 2+ plus open decisions/questions. `ideas-backlog.md` = raw ideas catch-all.
+- **Vault access:** Claude reads AND writes the local vault directly via the Filesystem connector. No GitHub fetching, no manual paste.
+- **Sync:** After Claude edits files locally, Arunava runs Obsidian Git: Push to send them to GitHub.
+- **Session start:** Say "load master plan vault" → Claude reads the core files from disk in Steps 0–1
 
 ---
 
