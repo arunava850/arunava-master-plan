@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-overview/weekly-plan.md",
+                "file": "00-overview/what-to-do-first.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "weekly-plan"
+              "title": "what-to-do-first"
             }
           }
         ],
@@ -211,8 +211,9 @@
   },
   "active": "a0cc48543348e510",
   "lastOpenFiles": [
-    "00-overview/what-to-do-first.md",
+    "20-100-days/build-log.md",
     "00-overview/weekly-plan.md",
+    "00-overview/what-to-do-first.md",
     "10-identity/personal-growth.md",
     "HOME.md",
     "README.md",
@@ -229,7 +230,6 @@
     "00-overview/backlog.md",
     "00-overview/audiences.md",
     "10-identity/linkedin-posts.md",
-    "20-100-days/build-log.md",
     "20-100-days/build-ideas.md",
     "00-overview/ideas-backlog.md",
     "20-100-days/overview.md",
