@@ -67,7 +67,7 @@ Would have prepared the Privacy Policy earlier — it's a small thing but signal
 
 ## Day 1 — FIFA World Cup 2026 Live Calendar
 
-**Date:** June 17, 2026 **Category:** AI Tools **Time spent:** ~11 hours **Status:** Built, not yet published
+**Date:** June 17, 2026 **Category:** AI Tools **Time spent:** ~11 hours **Status:** Complete — published
 
 ### What I built
 
@@ -87,7 +87,8 @@ Second — the gap between "AI can build anything" and actually deploying. The h
 
 - Demo: https://wc2026-calendar.arthagu.workers.dev
 - Schedule: https://wc2026-calendar.arthagu.workers.dev/schedule
-- LinkedIn post: [to be filled after publishing]
+- LinkedIn post: https://www.linkedin.com/posts/arunavamondal_fifaworldcup2026-worldcup-football-share-7477182501862416384-w9QN/
+- YouTube video:
 - Website page: arunavamondal.com/100days/day-1
 
 ### What I'd do differently

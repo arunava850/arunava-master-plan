@@ -10,9 +10,9 @@
 ---
 
 ## Post 0 — Pinned intro post
-**Status:** `[ready]` — APPROVED April 22, 2026
+**Status:** `[published]` — live, pinned. Posted 2026.
+**URL:** https://www.linkedin.com/posts/arunavamondal_ai-creativity-nichecreators-share-7475708601991561217-MIvZ/
 **Type:** Pinned profile post
-**Publish:** As soon as you approve (publish + pin immediately)
 
 I've been building for months and telling nobody.
 
@@ -39,6 +39,14 @@ Let's build together.
 What are you working on right now?
 
 #Building #AI #Cricket #ShippingCode
+
+---
+
+## Post — Day 1: FIFA World Cup 2026 Live Calendar
+**Status:** `[published]` — live
+**URL:** https://www.linkedin.com/posts/arunavamondal_fifaworldcup2026-worldcup-football-share-7477182501862416384-w9QN/
+**Type:** Build post (100 Days — Day 1)
+**Build:** [[20-100-days/build-log#Day 1 — FIFA World Cup 2026 Live Calendar]] · Demo: https://wc2026-calendar.arthagu.workers.dev
 
 ---
 
