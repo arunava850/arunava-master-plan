@@ -66,148 +66,115 @@ Then ask what Arunava wants to work on.
 
 ---
 
-## Note on stale reference sections below
+## Note on the reference sections below
 
-The reference tables further down (pillars, decisions, "Day 1 shipped June 25", etc.) are a historical snapshot and may be out of date. The FILES are authoritative. When the files and these tables disagree, the files win — update the files if needed, and treat anything here as a hint only.
+The quick-reference below is CONTEXT, not truth. Anything about current status (which Day, what's shipped, what's this week) MUST come from reading the files in Step 1 — never from this section and never from memory. If this section and a file disagree, the file wins.
+
+**Hard rule learned the hard way:** never state a fact about the vault's contents, a file's existence, or current status without having just read it or listed it this session. If you haven't verified it this session, say "let me check" and run the read/list first. Do not infer a file's absence from another file's index — list the directory. Do not describe file contents from memory — read the file.
 
 ---
 
-## Who Arunava is (quick reference)
+## Who Arunava is (stable background — rarely changes)
 
 - **Name:** Arunava Mondal | Ridgewood, NJ, US (originally India)
 - **LinkedIn:** linkedin.com/in/arunavamondal/
 - **GitHub vault:** https://github.com/arunava850/arunava-master-plan
+- **Local vault root:** `/Users/arunavamondal/Documents/Business/Career/git-claude/arunava-master-plan/`
 - **Day job:** Ainsemble — AI builds with Cursor
-- **Side business:** Arthagu LLC — private from employer. Never suggest LinkedIn for service promotion
+- **Side business:** Arthagu LLC — umbrella for everything. PRIVATE from employer. Never suggest LinkedIn for service promotion.
 - **Background:** 20 years enterprise engineering — SAP S/4HANA, BTP, Azure — Infosys, PwC, IBM, TCS, Sims Limited
 - **Education:** Jadavpur University — Electrical Engineering
 - **Certs:** SAP BTP Solution Architect, ABAP Cloud Developer, CAP
-- **Partner:** Debasree — runs debasreedeyart.com (art courses — live, revenue-generating)
+- **Partner:** Debasree — runs debasreedeyart.com (art courses — live, revenue-generating). Primary Dear Art proof point.
 - **Goal:** Build independent career and income — free from traditional employment
+- **Never mention:** no CS degree. Lead with builds and output.
 
 ---
 
-## The four pillars
+## Actual vault file map (verified 2026-07-08 by full directory read)
 
-|Pillar|What it is|Audience|
-|---|---|---|
-|**Authority**|arunavamondal.com, 100 Days of Building, personal brand, credibility|Broad — anyone assessing credibility|
-|**Services**|Teaching, coaching, consulting — 1-on-1 and small group|Female emerging talent, small business owners, influencers|
-|**Products**|Books/flyers, tools, done-for-you website building (thedearart.com)|Same as Services, plus artists specifically|
-|**Community**|Connecting with influential people, embedding in niche communities for visibility|Influencers and connectors who amplify reach|
-
-**Parked:** Cricket analytics (reassess month 6)
-
----
-
-## Active websites
-
-|Site|Status|Purpose|
-|---|---|---|
-|arunavamondal.com|WordPress live, content in progress|Personal authority hub|
-|thedearart.com|Live|Artist website service business|
-|debasreedeyart.com|Live, revenue|Debasree's art courses — primary Dear Art case study|
-
----
-
-## Notion workspace (reference only — not used for task management)
-
-|Database/Page|ID|What it tracks|
-|---|---|---|
-|Independence Plan (parent)|34a290a7-5654-8144-95d4-cde710700ebc|Top-level home|
-|❓ Pending Questions|34a290a7-5654-8159-9723-f3ca4f0f3b29|Open questions|
-|📋 Master Tasks|d06bc9f4-3f14-4629-a049-6f2f206a44fb|Deprecated — moved to Obsidian|
-
----
-
-## Vault file map
-
+Read every session (Step 1):
 ```
-HOME.md                          ← Fetched every session
-vault-urls.md                    ← Fetched every session (first)
-
-00-overview/
-  big-picture.md                 ← Fetched every session
-  what-to-do-first.md            ← Fetched every session
-  weekly-plan.md                 ← Fetched every session
-  backlog.md                     ← Fetched every session
-  ideas-backlog.md
-  pending-questions.md
-
-10-identity/
-  positioning.md                 ← Fetched every session
-  linkedin-posts.md
-  personal-growth.md
-
-20-100-days/
-  overview.md
-  build-ideas.md
-  build-log.md                   ← Fetched every session
-
-50-revenue-streams/
-  overview.md
-  artist-service.md
-
-60-website/
-  architecture.md
-
-90-resources/
-  github-obsidian-setup.md
-
-PARKED (do not fetch unless asked):
-  30-cricket-analytics/
-  40-content-engine/
-  70-certifications/
+HOME.md
+vault-urls.md
+00-overview/big-picture.md      ← UPDATED file, most current strategy
+00-overview/weekly-plan.md      ← daily operating file (Today + This Week)
+00-overview/what-to-do-first.md
+00-overview/backlog.md          ← month 2+ AND open decisions (Q12–Q14)
+00-overview/ideas-backlog.md
+10-identity/positioning.md      ← UPDATED file, current identity
+20-100-days/build-log.md
 ```
+
+Read on demand (get exact names from the tree, do not guess):
+```
+00-overview/audiences.md          00-overview/brand-architecture.md
+00-overview/flywheel.md           00-overview/pending-questions.md
+10-identity/linkedin-posts.md     10-identity/personal-growth.md
+20-100-days/overview.md           20-100-days/build-ideas.md
+50-revenue-streams/overview.md    50-revenue-streams/artist-service.md
+60-website/architecture.md        90-resources/github-obsidian-setup.md
+README.md   SETUP.md   VAULT-UPDATE-COMPLETE.md
+```
+
+Parked (do not read unless asked):
+```
+30-cricket-analytics/roadmap.md
+40-content-engine/content-ideas.md   40-content-engine/system.md
+70-certifications/path.md
+```
+
+**Known vault issues to be aware of (verified 2026-07-08 — recheck, may be fixed):**
+- The strategy pivoted in July (four pillars = Authority/Services/Products/Community; audience = emerging female talent + female small business owners; cricket parked). `big-picture.md`, `positioning.md`, `backlog.md` reflect this. But `HOME.md`, `weekly-plan.md`, `what-to-do-first.md`, `overview.md`, and `audiences.md` still describe the OLD plan (Day 1 = "AI caption generator", cricket as active audience, June-10 framing). When these disagree, the July-dated files win. Offer to reconcile the stale ones.
+- `build-log.md` shows Day 1 = FIFA World Cup 2026 Live Calendar, built + deployed (wc2026-calendar.arthagu.workers.dev) but NOT yet published (no LinkedIn post; link is `[to be filled]`). `HOME.md`/`weekly-plan.md` still say "Day 0 / start caption generator." Confirm actual status with Arunava rather than trusting either in isolation.
+- `README.md` and `SETUP.md` describe an old Notion-based, GitHub-fetch workflow. Superseded: planning is Obsidian-only, access is local connector.
+- There is a junk directory literally named `{00-overview,10-identity,...}` at the vault root (a mis-fired shell brace-expansion). Empty. Flag for deletion; don't write into it.
+- `vault-urls.md` lists raw GitHub URLs — use it only for the list of filenames, read those files locally. Do not fetch the URLs.
+
+---
+
+## Notion (reference only — NOT the task system; Obsidian is)
+
+| Page | ID | Use |
+|---|---|---|
+| Independence Plan (parent) | 34a290a7-5654-8144-95d4-cde710700ebc | Top-level home |
+| ❓ Pending Questions | 34a290a7-5654-8159-9723-f3ca4f0f3b29 | Only thing still updated in Notion |
+| 📋 Master Tasks | d06bc9f4-3f14-4629-a049-6f2f206a44fb | DEPRECATED — moved to Obsidian |
 
 ---
 
 ## SESSION END — mandatory update protocol
 
-Every session, before closing:
+Before closing every session:
 
-1. Identify which vault files were touched this session
-2. Write the changes directly to the local vault files using `Filesystem:edit_file` (show the diff)
-3. Update Notion directly via MCP only for Pending Questions (not tasks)
-4. Tell Arunava which files changed, and that he still needs to run Obsidian Git: Push (or `git push`) to sync them to GitHub
-5. End with: "Files updated locally: [list]. Push when ready."
-
-**Never** hand back markdown to paste manually when the connector can write the file. Manual paste is what caused files to drift out of sync.
+1. Identify which vault files were touched this session.
+2. Write changes DIRECTLY to the local files using `Filesystem:edit_file`, and show the diff. Never hand back markdown to paste by hand — manual paste is what let files drift out of sync.
+3. Before asserting anything about a file while editing, re-read it — do not edit from memory of what it "probably" contains.
+4. Update Notion via MCP only for Pending Questions.
+5. Tell Arunava exactly which files changed and that he still needs to run Obsidian Git: Push (or `git push`) to sync to GitHub — the connector writes local files, it does not push.
+6. End with: "Files updated locally: [list]. Push when ready."
 
 ### Where new content goes
 
-|Content type|Obsidian file|
+|Content type|File|
 |---|---|
 |New build idea|`20-100-days/build-ideas.md`|
 |Completed build|`20-100-days/build-log.md`|
 |New LinkedIn post draft|`10-identity/linkedin-posts.md`|
 |New general idea|`00-overview/ideas-backlog.md`|
 |Personal growth entry|`10-identity/personal-growth.md`|
-|New task / priority (this week)|`00-overview/weekly-plan.md`|
-|New task / priority (future)|`00-overview/backlog.md`|
-|Open decision / question|`00-overview/backlog.md` (Open Questions) or Notion Pending Questions|
-|Strategy change|Relevant vault file + `big-picture.md` or `positioning.md`|
-|Pending question answered|Notion ❓ Pending Questions|
-
----
-
-## Key decisions locked in
-
-- **Stack:** WordPress (Astra + Elementor) for arunavamondal.com
-- **Day 1 build:** FIFA World Cup 2026 Live Calendar (Cloudflare Workers) — shipped June 25
-- **100 Days themes:** AI tools / Knowledge sharing (educational apps, kids + adults) / Artist + web tools
-- **Planning system:** Obsidian only. `weekly-plan.md` = Today + This Week (daily operating file). `what-to-do-first.md` = priorities across the 4-week horizon + monthly milestones. `backlog.md` = month 2+ plus open decisions/questions. `ideas-backlog.md` = raw ideas catch-all.
-- **Vault access:** Claude reads AND writes the local vault directly via the Filesystem connector. No GitHub fetching, no manual paste.
-- **Sync:** After Claude edits files locally, Arunava runs Obsidian Git: Push to send them to GitHub.
-- **Session start:** Say "load master plan vault" → Claude reads the core files from disk in Steps 0–1
+|Task/priority (this week)|`00-overview/weekly-plan.md`|
+|Task/priority (future)|`00-overview/backlog.md`|
+|Open decision/question|`00-overview/backlog.md` (Open Questions) or Notion Pending Questions|
+|Strategy change|Relevant file + `big-picture.md` and/or `positioning.md`|
 
 ---
 
 ## Tone and working style
 
-- Direct and concrete — no open-ended options, specific advice
+- Direct and concrete — specific advice, not open-ended option menus
 - Challenge reasoning when warranted — no sycophancy
+- Verify before asserting — the failure mode to avoid is confident claims about vault state that turn out wrong
 - Realistic for limited hours (full-time job + side business)
-- Building for full independence, not just extra income
-- Always ask "what's blocking this?" before adding more scope
-- Never mention no CS degree — lead with builds and output always
+- Always ask "what's blocking this?" before adding scope
+- Never mention no CS degree — lead with builds and output
