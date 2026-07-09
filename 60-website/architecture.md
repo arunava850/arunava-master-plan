@@ -15,44 +15,41 @@
 
 | Page | URL | Purpose |
 |---|---|---|
-| Home | / | Hook + live 100 days counter + 3 latest builds + newsletter CTA |
-| 100 Days | /100days | Gallery of all builds — filterable, with progress bar |
-| Cricket analytics | /cricket | All cricket builds and findings — standalone for shareability |
+| Home | / | Hook + latest builds + newsletter CTA |
+| Projects | /projects | Gallery of all builds — filterable. No day counter, no finish line. |
 | Writing | /writing | Long-form articles and tutorials — SEO engine |
-| Services | /services | Artist website builds + AI consulting — for Instagram/Facebook traffic only |
+| Services | /services | Website builds (artists + creators) + coaching — activate when ready |
 | Courses | /courses | Teachery course landing pages — add when first course ready |
 | About | /about | Full story, credentials, the why |
-| Newsletter | /newsletter | Simple sign-up — "weekly build log" |
+| Newsletter | /newsletter | Simple sign-up — "build log" |
 
 ---
 
-## The 100 days page (/100days)
+## The projects page (/projects)
 
-### Header (always visible)
-- Live progress: "Day 47 of 100 · 47 builds shipped"
-- Progress bar (updates automatically)
-- Start date and end date
+### Header
+- "Builds" — short intro line. NO day counter, NO progress bar, NO finish line. Builds accumulate as they ship.
 
 ### Filter bar
-- All · AI Tools · Cricket Analytics · Artist + Web · Automations · Data Visualisations
-- Week 1 · Week 2 · Week 3 ... (sequential reading)
+- All · AI Tools · Artist + Web · Automations · Data Visualisations
+- (No cricket filter — parked.)
 
 ### Gallery grid
-- Card per build: day number + title + category tags
+- Card per build: title + category tags + date
 - Each card links to individual build page
 
 ---
 
-## Individual build page structure (/100days/day-47)
+## Individual build page structure (/projects/[slug])
 
-1. **Header** — day number, title, date, category badge, 2-line summary
+1. **Header** — title, date, category badge, 2-line summary
 2. **The build** — screenshot, GIF, or embedded demo (first thing people see)
 3. **What I built** — 2–3 paragraphs, plain language
 4. **How I built it** — tech stack, decisions, code snippets
 5. **What surprised me** — most human and shareable section
-6. **Links** — demo / GitHub / LinkedIn post / YouTube video
+6. **Links** — demo / GitHub / LinkedIn post
 7. **Navigation** — ← previous build · next build →
-8. **CTA at bottom** — newsletter (cricket builds) or services (artist builds)
+8. **CTA at bottom** — newsletter (most builds) or Services (artist/creator builds)
 
 ---
 
@@ -60,15 +57,14 @@
 
 ### Custom post type for builds (most important)
 Use CPT UI plugin to create a "Build" custom post type with fields:
-- Day number
 - Category
+- Date shipped
 - Demo URL
 - GitHub URL
 - LinkedIn post URL
-- YouTube video URL
 - Build summary (2 lines)
 
-This powers the entire gallery automatically. Add a new entry per build — 10 minutes. No manual page editing ever.
+This powers the entire /projects gallery automatically. Add a new entry per build — 10 minutes. No manual page editing ever. (No "day number" field — builds aren't numbered.)
 
 ---
 
@@ -89,25 +85,24 @@ This powers the entire gallery automatically. Add a new entry per build — 10 m
 
 ## Homepage sections (top to bottom)
 
-1. **Hero** — one sentence + name + photo + "Follow the 100 day project →"
-2. **Live 100 days counter** — "Day 47 of 100 — currently building: [title]"
-3. **Latest 3 builds** — auto-updates from custom post type
-4. **Three pillars** — AI builds · Cricket analytics · Helping artists get online
-5. **Newsletter sign-up** — "Weekly build log"
-6. **About — short version** — 2–3 sentences + link to full About page
+1. **Hero** — one sentence + name + photo + "See what I'm building →" (→ /projects)
+2. **Latest 3 builds** — auto-updates from custom post type
+3. **What I do** — build useful things with AI · help artists & creators get online · teach and connect
+4. **Newsletter sign-up** — "build log"
+5. **About — short version** — 2–3 sentences + link to full About page
 
 ---
 
 ## Build order (minimum viable first)
 
-- **Week 1:** Register domain + WordPress install + Kadence + holding page (2 hours)
-- **Week 2:** Set up Build custom post type + add first 3 past builds
-- **Week 3:** Build /100days gallery page with filters and progress bar
-- **Week 4:** Homepage + About + Services page + ConvertKit + Rank Math
+- **Week 1:** Home + /projects gallery + About live (WordPress already installed; add Kadence + 6 plugins). Ship rough.
+- **Week 2:** "Build" custom post type + add FIFA and the caption generator as the first entries
+- **Week 3:** Refine /projects filters; About polished; ConvertKit newsletter live
+- **Week 4:** Home copy reflects current positioning; Services page stub; Rank Math on all build pages
 - **Ongoing:** Add one build entry per build — 10 minutes each
 
 ---
 
 ## SEO note
 
-Every build page = one indexed article. After 100 days you'll have 100 pages working for you permanently. "How I built a T20 win probability model" will rank on Google for years.
+Every build page = one indexed article. Over time you'll accumulate dozens of pages working for you permanently. "How I built a live World Cup calendar on Cloudflare Workers" will rank on Google for years.

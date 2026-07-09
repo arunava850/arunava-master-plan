@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "00-overview/weekly-plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME"
+              "title": "weekly-plan"
             }
           }
         ],
@@ -211,14 +211,14 @@
   },
   "active": "a0cc48543348e510",
   "lastOpenFiles": [
-    "vault-urls.md",
-    "HOME.md",
+    "00-overview/what-to-do-first.md",
     "00-overview/weekly-plan.md",
+    "HOME.md",
+    "vault-urls.md",
     "00-overview/big-picture.md",
     "00-overview/backlog.md",
     "10-identity/positioning.md",
     "skill/SKILL.md",
-    "00-overview/what-to-do-first.md",
     "20-100-days/build-log.md",
     "10-identity/personal-growth.md",
     "README.md",

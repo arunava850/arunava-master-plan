@@ -19,7 +19,7 @@ You have a live reference site (debasreedeyart.com), a proven stack (WordPress +
 - **Brand colors/logo:** Black text on white (accessible, professional, artist-friendly)
 
 ### Brand Message
-"Where artists thrive. Professional websites for artists to sell their work and teach courses. Built with care, designed to sell."
+"Dear Art helps artists and creators build their future-ready online home." Professional websites for artists and creators of every kind — to sell their work, teach, and grow their presence. Built with care, designed to sell.
 
 Community focus: Events, live shows, coaching, artist mentorship
 
@@ -53,25 +53,29 @@ Full business setup + training
 
 ---
 
-## Getting first clients
+## Strategy (UPDATED 2026-07-08)
 
-### Step 1 — This week (free, zero effort)
-Ask Debasree to refer one artist friend who needs a website.
-- Offer first client at cost or free
-- Goal: get the testimonial + a second reference site
-- This is a dinner conversation, not a sales pitch
+**Anchor, don't route.** Use debasreedeyart.com as the *proof/portfolio* ("I built this — I can build yours"), and reach artists **directly or organically**, not by asking Debasree to refer from her network. Debasree's site is the flagship example; her circle is a fallback, not the primary channel. More scalable, and doesn't depend on her doing outreach.
 
-### Step 2 — Organic posts (Instagram + Facebook)
-Post: "I built debasreedeyart.com — now helping other artists build their online home."
-- Screenshot of Debasree's site as the example
-- Simple, honest, credible — no stock photos, no corporate language
-- **Not on LinkedIn** — job privacy
+**First client = free, for the testimonial.** With zero testimonials, the first one is worth more as social proof than as cash. Target: an artist with a *visible audience*, a *weak/absent current site* (dramatic before/after), who's pleasant to work with. Build free (Starter scope) in exchange for a testimonial, a case study, and permission to feature the result.
 
-### Step 3 — Document every build publicly
-"Building an artist website — day by day" as part of 100 days project
-- Goes on Instagram + Facebook only
-- Each post is content AND a lead magnet for the next client
-- Share testimonials and before/after galleries
+**Scope — "artist" defined broadly.** Dear Art serves artists and creators of every kind: fine artists, content creators, musicians, sportspeople, any creative talent building their online presence. One brand, wide definition. The underlying skill (WordPress + shop + courses + presence) transfers across creative fields — tailor the specifics per field (musician → streaming links + gig calendar; sportsperson → highlight reel + sponsor-friendly framing; fine artist → gallery + shop).
+
+---
+
+## Getting first clients — the sequence
+
+**Stage 0 — Make the anchor presentable (before any outreach).** thedearart.com is live but incomplete. Minimum before reaching out: clear "what I do" line, the tiers (or "starting at"), debasreedeyart.com shown prominently as the flagship example, contact path (hello@thedearart.com + form). Doesn't need to be beautiful — just not abandoned. This is the gate.
+
+**Stage 1 — Build the target list.** 15–20 real candidates: artist with active audience + weak/no site. Sources: IG hashtags in Debasree's world, @dearart3's followers and who they follow, FB art communities. Research only.
+
+**Stage 2 — Offer + outreach message.** Time-boxed, no-risk: "I'll build you a professional site free, for a testimonial + permission to feature it. Taking on 1–2 artists." Anchor on debasreedeyart.com first, then the offer. Personal, short, no template-smell. Send in small personalized batches (5 at a time).
+
+**Stage 3 — Build client #1 (testimonial build).** Tight Starter-tier scope so "free" doesn't become 40 hours. Document before/during/after. Get the testimonial + link permission *at handover, while they're happy.*
+
+**Stage 4 — Convert proof to paid.** Next outreach isn't free: "here's what I did for [artist], I have space for 2 paid builds this month, Starter from $500." Realistically month 2–3.
+
+**Discipline:** Stages 1–2 are outreach/relationship hours — same practice as the Community track, pointed at artists-to-serve. Don't start Stage 3 until arunavamondal.com hub work is stable. Fallback if Stage 2 stalls: Debasree's network after all.
 
 ---
 

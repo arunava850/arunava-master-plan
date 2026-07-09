@@ -6,7 +6,7 @@
 
 ## Core identity statement
 
-> "I build real things with AI, document everything, and help emerging female talent and small business owners grow — through direct teaching, tools, and the right connections."
+> "I build real things with AI, publish them openly, and help artists, creators, and women entrepreneurs grow — through direct teaching, tools, and the right connections."
 
 ---
 
@@ -26,7 +26,7 @@
 |---|---|---|
 |**Authority**|Build real tools with AI, publish each openly on arunavamondal.com + LinkedIn (no day counter, no fixed project)|You practice what you teach|
 |**Services**|Teach, coach, consult — direct 1-on-1 and small group work|You can transfer what you know|
-|**Products**|Done-for-you websites — Dear Art for artists, own brand for new creators/influencers — plus later guides/tools|You deliver real outcomes|
+|**Products**|Done-for-you websites via Dear Art for artists and creators of every kind — plus later guides/tools|You deliver real outcomes|
 |**Community**|Connect with influential people, embed in the right niche communities for visibility|You're building reach, not just content|
 
 **Parked:** Cricket analytics — reassess month 6.
@@ -35,12 +35,12 @@
 
 ## LinkedIn headline options
 
-**Recommended:** `Building AI Tools in Public · Helping Emerging Female Talent & Small Business Owners Grow · SAP BTP Architect`
+**Recommended:** `Building AI Tools in Public · Helping Artists, Creators & Women Entrepreneurs Grow Online · SAP BTP Architect`
 
 Alternatives:
 
-- `AI Builder · Coaching Emerging Female Entrepreneurs · thedearart.com`
-- `I Help Female Creators & Business Owners Build Online · AI Tools · Real Systems`
+- `AI Builder · Helping Artists & Creators Build Their Online Home · thedearart.com`
+- `I Help Artists, Creators & Women Entrepreneurs Build Online · AI Tools · Real Systems`
 - `Enterprise Architect turned AI Builder · Teaching, Building, Connecting`
 
 ---
@@ -53,9 +53,9 @@ I've spent those years building things that had to work — SAP S/4HANA implemen
 
 But what drives me today is different from what drove me then.
 
-I'm here to help emerging female talent, small business owners, and creators build their presence and grow their business. Artists, models, players, entrepreneurs — people who have something real to offer but aren't sure how to get it in front of the right people, or how to turn what they do into something sustainable.
+I'm here to help artists, creators, and women entrepreneurs build their presence and grow their business. Fine artists, content creators, musicians, sportspeople, founders — people who have something real to offer but aren't sure how to get it in front of the right people, or how to turn what they do into something sustainable.
 
-I build AI tools in the open and publish each one — on my site and on LinkedIn. I teach and coach directly. I'm building products — starting with done-for-you website builds through thedearart.com for artists, and for new creators who don't have a home online yet. And I'm working to connect with the right people and communities to help this reach further than I can alone.
+I build AI tools in the open and publish each one — on my site and on LinkedIn. I teach and coach directly. I'm building products — starting with done-for-you website builds through thedearart.com, helping artists and creators of every kind build a future-ready online home. And I'm working to connect with the right people and communities to help this reach further than I can alone.
 
 My partner Debasree is an artist who built a real online course business from nothing. I helped her build the systems and presence that made it work. That's not a case study — it's what's possible when the right knowledge meets the right effort.
 
@@ -99,4 +99,4 @@ Currently building openly: → arunavamondal.com — where every build gets publ
 2. **Actively building with AI** — not just talking about it, live proof via published builds
 3. **Debasree as live proof** — real artist, real business, real results
 4. **Direct services model** — teaching and coaching, not just content
-5. **Specific audience** — emerging female talent and small business owners underserved by most tech/AI voices
+5. **Specific audience** — artists and creators of every kind, plus women entrepreneurs, underserved by most tech/AI voices

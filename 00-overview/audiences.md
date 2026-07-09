@@ -1,91 +1,74 @@
-# Your 4 audiences
+# Your audiences
+
+> Last updated: 2026-07-08. Superseded the old four-audience model (enterprise / cricket / narrow-artist / AI builders). Cricket and enterprise-professional targeting are retired from the active plan.
 
 ## Overview
 
-You have four distinct audiences. Each needs different content, lives on different platforms, and leads to different revenue streams. Don't try to speak to all four equally at first.
+Two audiences to serve now, one to keep warm. Don't try to speak to all equally — lead with the warmest (artists/creators), let published work earn the broader one.
 
-**For months 1–3:** Weight content 50% AI builder + 30% cricket + 20% everything else. Let the audience tell you what to double down on.
-
----
-
-## Audience 1 — Enterprise professionals
-
-**Who they are:** Mid-career professionals in SAP, IBM, TCS, PwC-world. They see AI coming and don't know where to start. Many are in the same position you were.
-
-**What they want:** Clarity and confidence about AI — without the hype. Practical, grounded advice from someone who has been in their shoes.
-
-**Where they live:** LinkedIn primarily. Some on X.
-
-**What content works:**
-- "AI in real enterprise systems — what actually works"
-- "What I wish I knew about AI after 20 years in SAP"
-- "How AI is changing data infrastructure — what enterprise teams need to know"
-
-**Revenue this leads to:** AI consulting, AI for enterprise course ($197–$497)
-
-**Your unique angle:** You were them. You understand their systems, their constraints, their fears. You're not a Silicon Valley person telling them to move fast — you're someone from their world who has figured it out.
+**Content weighting (current):** the majority of public output is AI builds published openly (Authority). Artist/creator-facing content lives on Instagram/Facebook (Dear Art). Nothing on cricket for now.
 
 ---
 
-## Audience 2 — Cricket data fans
+## Audience 1 — Artists & creators (broad) — PRIMARY, warmest
 
-**Who they are:** Engineers, analysts, data scientists, fantasy cricket players globally. India-heavy but worldwide. Passionate, knowledgeable, hungry for serious analysis that goes beyond surface stats.
+**Who they are:** Creative talent of every kind — fine artists, content creators, musicians, sportspeople, art teachers. They want to build/grow an online presence, sell their work, or teach, but find the tech overwhelming. Trust matters most; they need someone patient who won't make them feel stupid.
 
-**What they want:** Real analysis. Not "Virat Kohli is great" — but "here's what the data actually shows about Kohli's performance in chases vs first innings across conditions."
+**What they want:** A guide who understands their world. Step-by-step, plain language, real results. Proof it works for someone like them.
 
-**Where they live:** X/Twitter (very active cricket community), LinkedIn (engineer + analyst subset), YouTube (growing).
-
-**What content works:**
-- Surprising data findings with charts
-- Model walkthroughs — "here's how I built this"
-- "The cricket stats nobody talks about"
-- Live analysis during tournaments
-
-**Revenue this leads to:** Cricket analytics course ($149–$297), cricket analytics SaaS tools
-
-**Your unique angle:** Near-zero competition. The cricket + AI + Python intersection on YouTube and LinkedIn is almost empty. You're early.
-
----
-
-## Audience 3 — Artists going digital
-
-**Who they are:** Painters, illustrators, craft artists, art teachers. Want to sell online and teach courses but find technology overwhelming. Trust is everything — they need someone patient and clear.
-
-**What they want:** A guide who understands their world and won't make them feel stupid. Step-by-step, plain language, real results.
-
-**Where they live:** Instagram (very active art community), Facebook (older demographic, art groups), Pinterest.
+**Where they live:** Instagram (very active creative community), Facebook (art groups, older demographic), and their own niche platforms.
 
 **What content works:**
-- "How I built an artist website that actually sells"
-- Before/after — artist's old situation vs after getting a proper site
-- "What every artist needs on their website" — checklist style
+- Before/after — a creator's old situation vs a proper site
+- "What every [artist/musician/creator] needs on their site" — checklist style
 - Behind the scenes of building debasreedeyart.com
+- Simple AI tools that solve a creator pain (captions, bios, content planning)
 
-**Revenue this leads to:** Artist website builds ($500–$2,000), artist website course ($97–$197)
+**Revenue this leads to:** Dear Art website builds ($500–$2,000), later an artist website course ($97–$197)
 
-**Your unique angle:** You built debasreedeyart.com. You have a live, working reference that real artists can see. You're not a generic web developer — you understand their specific needs because you built one for your wife.
+**Your unique angle:** You built debasreedeyart.com — a live, working reference real creators can see. Not a generic web developer; you understand creative-business needs because you built one.
 
-**Important:** This audience lives on Instagram and Facebook — NOT LinkedIn. Keep artist content off LinkedIn for job privacy.
+**Important:** Lives on Instagram/Facebook — NOT LinkedIn. Keep this off LinkedIn for job privacy.
 
 ---
 
-## Audience 4 — Aspiring AI builders
+## Audience 2 — Women entrepreneurs / creators — PRIMARY, higher ceiling, colder
 
-**Who they are:** Developers and non-developers wanting to build with Cursor, AI tools, and agents. Non-CS background often. Want a guide who has figured it out without a traditional path.
+**Who they are:** Women building a business, brand, or creative practice who want presence and growth. Broader than artists, less of an existing bridge, bigger long-term opportunity (coaching, products).
 
-**What they want:** Real builds, real workflows, real mistakes. Not polished tutorials — honest documentation of what it's actually like to build with AI.
+**What they want:** To see that someone credible can help them build and grow — practically, without hype.
 
-**Where they live:** LinkedIn, X/Twitter, YouTube, GitHub.
+**Where they live:** LinkedIn, Instagram.
 
 **What content works:**
-- "Here's my exact Cursor setup for shipping faster"
-- "I built X in 2 hours with AI — here's every prompt I used"
-- "The AI workflow I use every day at work"
-- Build-along videos on YouTube
+- Published builds that are useful to a non-technical business owner
+- "What AI can actually do for a small creative business"
+- Honest build-in-public that models capability
 
-**Revenue this leads to:** AI tools for builders course ($97–$197), consulting, Cursor workflow products
+**Revenue this leads to:** Coaching/consulting (later, emerges from demand), digital products, website builds
 
-**Your unique angle:** You're building in a real production environment (Ainsemble) — not just side projects. Your workflows are battle-tested.
+**Your unique angle:** 20 years of real systems + actively shipping with AI + a partner who built a real business. You reach out with proof (a published build), not a pitch.
+
+---
+
+## Audience 3 — Non-technical, AI-curious — SECONDARY
+
+**Who they are:** People who want to understand and use AI in their work but feel it's "not for them." Overlaps with the two primaries.
+
+**What they want:** Permission and a clear on-ramp — real examples that AI is usable by ordinary people.
+
+**Where they live:** LinkedIn, newsletter.
+
+**What content works:** Published builds explained in plain language; "I built X, here's how, here's what it's for."
+
+**Revenue this leads to:** Newsletter growth, later products/coaching. Mostly an authority/reach audience.
+
+---
+
+## Parked (not an active audience now)
+
+- **Cricket data fans** — reassess month 6. Real niche, near-zero competition, but off-plan for now.
+- **Enterprise professionals** — explicitly no longer the target (see positioning.md "What NOT to lead with").
 
 ---
 
@@ -93,9 +76,10 @@ You have four distinct audiences. Each needs different content, lives on differe
 
 | Platform | Primary audience | Content focus |
 |---|---|---|
-| LinkedIn | Audience 1 + 4 | AI builds, enterprise, build-in-public |
-| X / Twitter | Audience 2 + 4 | Cricket analytics, AI tools, hot takes |
-| Instagram | Audience 3 | Artist websites, visual builds |
-| Facebook | Audience 3 | Artist service, Meta ads, communities |
-| YouTube | Audience 2 + 4 | Build-along videos, cricket analytics |
-| Newsletter | All 4 | Weekly build log — everyone gets it |
+| LinkedIn | Audience 2 + 3 | AI builds published openly, build-in-public. NO service promotion (job privacy). |
+| Instagram (@dearart3) | Audience 1 | Creator websites, before/after, artist tools |
+| Facebook (Dear Art) | Audience 1 | Dear Art service, Meta ads, creative communities |
+| arunavamondal.com | All | Every build = a published page (SEO + authority) |
+| Newsletter | All | Build log — everyone gets it |
+| X / Twitter | (parked) | Not active now |
+| YouTube | (later) | Build videos — start recording, publish at 5 |

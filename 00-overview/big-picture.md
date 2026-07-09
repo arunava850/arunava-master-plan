@@ -40,12 +40,12 @@ Build a fully independent career and business — free from traditional employme
 |---|---|---|---|
 |**Authority**|Build useful things with AI, publish each openly on arunavamondal.com + LinkedIn. Body of work = proof. No day counter, no fixed "100 days."|Broad — anyone assessing credibility|ACTIVE — the crank, runs all year|
 |**Community**|Connect genuinely with artists-with-audiences and women entrepreneurs/creators; show up before asking|Artists with audiences; women entrepreneurs/creators|ACTIVE — relationship hours|
-|**Products**|Done-for-you websites — Dear Art (artists) + under own name for new creators/influencers without a site; later guides/tools|Artists, plus new creators/influencers|SEMI-ACTIVE — IG/FB only|
+|**Products**|Done-for-you websites via Dear Art (thedearart.com) for artists and creators of every kind; later guides/tools|Artists broadly — fine artists, content creators, musicians, sportspeople, any creative talent|SEMI-ACTIVE — IG/FB only|
 |**Services**|Coaching/consulting — emerges from Community + Authority, defined by observed demand|Same, once authority exists|DORMANT — emerges ~month 6|
 
 **Parked:** Cricket analytics — reassess month 6.
 
-**Note on site-building scope:** Not only artists. New creators and influencers who don't yet have a personal site are also targets — handled under Arunava's own brand / arunavamondal.com Services, keeping Dear Art artist-scoped.
+**Note on "artist":** Defined broadly. Dear Art serves artists and creators of every kind — fine artists, content creators, musicians, sportspeople, any creative talent building their online presence. One brand, wide definition. Tagline: *"Dear Art helps artists and creators build their future-ready online home."*
 
 ---
 

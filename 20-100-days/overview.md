@@ -1,29 +1,24 @@
-# 100 days project — overview
+# Build themes + idea bank (formerly "100 days overview")
 
-## Why this works for your specific goals
-
-A 100 day project gives you a story with a beginning, middle, and end — the most powerful content format that exists. People don't just follow posts. They follow journeys.
-
-| Benefit | What it means for you |
-|---|---|
-| Authority | 100 builds = undeniable proof. You didn't just study AI — you shipped 100 things with it. |
-| Consistency | You never wonder what to post. Every day is a build, every build is a post. |
-| Discovery | #100DaysOfBuilding already has an audience. You're joining a stream, not starting from silence. |
-| Research | By day 30 you'll know which builds get 10x more engagement — those become your courses and tools. |
+> **RETIRED:** The "100 Days" construct is no longer used — no day counter, no numbered days, no fixed finish line. "100 Days" was only ever a reference name. Builds are the unit now; publish each as it ships.
+>
+> **What's still useful below:** the *themes* and the *build ideas*. Ignore the day numbers and the start/end dates — they're historical. Treat everything below as an idea bank to pull from via the 3-of-4 framework (see build-ideas.md).
+>
+> Current model, phasing, and priorities live in: `HOME.md`, `00-overview/big-picture.md`, `00-overview/what-to-do-first.md`, `00-overview/weekly-plan.md`.
 
 ---
 
-## What it is
+## Three themes (still valid as a rotation guide)
 
-A public commitment to build 100 small, useful things — documenting every single one across your website, LinkedIn, X, Instagram, and YouTube.
-
-**Start date:** June 10, 2026
-**End date:** September 17, 2026
-**Hashtag:** #100DaysOfBuilding
+| Theme | Audience | Platform |
+|---|---|---|
+| AI builds and tools | LinkedIn + X | LinkedIn, X |
+| Knowledge sharing builds (educational tools) | LinkedIn + Instagram | LinkedIn, Instagram |
+| Artist + creator web tools | Artists, creators | Instagram, Facebook |
 
 ---
 
-## What counts as one "build"
+## What counts as one build
 
 - A working script or tool (even 50 lines of Python)
 - A working prototype — rough but functional
@@ -33,19 +28,13 @@ A public commitment to build 100 small, useful things — documenting every sing
 - A website feature or component
 - An educational app or interactive learning tool
 
-**Rule:** It must be real and runnable. Not a plan. Something you can show working.
+**Rule:** real and runnable. Not a plan — something you can show working.
 
 ---
 
-## Three themes rotating across 100 days
+## Idea bank (was day-by-day; now just ideas to pull from)
 
-| Theme | Days (approx) | Audience | Platform |
-|---|---|---|---|
-| AI builds and tools | 1–10, 41–50, 81–90 | LinkedIn + X | LinkedIn, X |
-| Knowledge sharing builds | 11–30, 51–70 | LinkedIn + Instagram | LinkedIn, Instagram |
-| Artist + web tools | 31–40, 71–80, 91–100 | Artists | Instagram, Facebook |
-
----
+> Day numbers removed — these are candidates, not a schedule.
 
 ## Days 1–10 — AI builds (establish builder identity)
 
