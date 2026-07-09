@@ -1,21 +1,64 @@
 # Arunava Mondal — Master Plan
 
-> _"I help emerging talent build their presence, business, and life — through technology, inspiration, and real-world knowledge."_
+> _"I build real things with AI, publish them openly, and help artists, creators, and small business owners grow — through authority, direct services, products, and the right connections."_
 
-**Last updated:** 2026-06-09 **100 Days Project:** Day 0 of 100 — not started yet **Status:** Execution starting
+**Last updated:** 2026-07-08 **Current focus:** Standing up arunavamondal.com as the authority hub **Status:** Active
 
 ---
 
 ## The four pillars
 
-|Pillar|What it is|Primary audience|
-|---|---|---|
-|**AI Builder**|Building real things with AI, documenting everything publicly|Non-tech people who want to use tech|
-|**Inspire & Connect**|Inspiring emerging female talent — artists, models, players, entrepreneurs|Emerging female talent|
-|**Knowledge Sharing**|Spiritual, inspirational, financial life knowledge via blogs, social, and 1-1 consultancy|Emerging female talent + broader|
-|**Artist Service**|Done-for-you websites, prompts, niche builds for artists via thedearart.com|Artists and creators|
+|Pillar|What it is|Primary audience|Status|
+|---|---|---|---|
+|**Authority**|Build useful things with AI, publish each on arunavamondal.com + LinkedIn. The accumulating body of work IS the proof. (No day counter, no fixed project.)|Broad — anyone assessing credibility|ACTIVE — the engine|
+|**Community**|Connect genuinely with artists-with-audiences and women entrepreneurs/creators. Show up before asking.|Artists with audiences; women entrepreneurs/creators|ACTIVE — relationship hours|
+|**Products**|Done-for-you websites (Dear Art for artists; under own name for creators/influencers), plus later guides/tools|Artists, plus new creators/influencers without a site|SEMI-ACTIVE — IG/FB only|
+|**Services**|Coaching/consulting — emerges from Community + Authority, defined by real demand|Same, once authority exists|DORMANT — let it emerge|
 
-**Parked:** Cricket analytics (reassess at month 6)
+**Parked:** Cricket analytics (reassess month 6)
+
+---
+
+## This week's focus
+
+- [ ] arunavamondal.com hub live — Home + /projects gallery + About (WordPress already installed)
+- [ ] Set up "Build" custom post type so publishing a project = 10 min
+- [ ] Publish FIFA build as first /projects entry; cross-link the LinkedIn post
+- [ ] Start the connection practice — engage 2–3 artists/creators genuinely, no ask
+
+---
+
+## How it unfolds (the model)
+
+```
+BUILD something useful
+    ↓
+PUBLISH it — arunavamondal.com/projects + LinkedIn
+    ↓
+The body of work becomes AUTHORITY + a reason to reach out
+    ↓
+reaching out genuinely = COMMUNITY (artists, women creators)
+    ↓
+some builds are artist tools → feed PRODUCTS (Dear Art, IG/FB)
+    ↓
+relationships + visible expertise → people ask "can you help me?"
+    ↓
+that question = SERVICES (coaching) validating itself
+    ↓
+revenue funds more building (repeat)
+```
+
+Authority + Community are the only two worked deliberately right now. Products is opportunistic (different channel). Services is passive until it emerges.
+
+---
+
+## North star
+
+> Be known as someone who builds real things with AI, publishes openly, and helps artists, creators, and small business owners build their presence and business. Debasree's site is the proof. The relationships are the multiplier.
+
+---
+
+_Obsidian = thinking and writing. Notion = only Pending Questions now._ _Vault is read/written locally via the Filesystem connector; push to GitHub after edits._ _GitHub: https://github.com/arunava850/arunava-master-plan_
 
 ---
 
@@ -45,30 +88,6 @@
 
 ---
 
-## This week's focus
+## This week's focus — see weekly-plan.md
 
-- [ ] Set up WordPress on arunavamondal.com (Astra + Elementor)
-- [ ] Publish LinkedIn intro post (already drafted)
-- [ ] Lock Day 1 build — AI caption generator for artists
-- [ ] Fill Five-Year Future section in personal-growth.md
-
----
-
-## The four streams running in parallel
-
-```
-Stream 1 — Document past builds        → immediate content backlog
-Stream 2 — Build in public (100 days)  → authority + portfolio
-Stream 3 — Identity + website          → foundation everything sits on
-Stream 4 — Inspire & connect           → emerging female talent via knowledge sharing
-```
-
----
-
-## North star
-
-> Be known as someone who helps emerging female talent — artists, models, players, entrepreneurs — build their presence and business through technology, and inspires them through spiritual, financial, and life knowledge. Debasree is the proof. The community is the mission.
-
----
-
-_Notion = doing and tracking. Obsidian = thinking and writing._ _GitHub: https://github.com/arunava850/arunava-master-plan_ _Update this vault after every working session._
+> Priorities live in `00-overview/weekly-plan.md` (Today + This Week) and `00-overview/what-to-do-first.md` (4-week horizon). This section intentionally left as a pointer so it can't go stale.

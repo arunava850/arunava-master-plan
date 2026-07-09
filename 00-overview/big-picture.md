@@ -36,34 +36,38 @@ Build a fully independent career and business — free from traditional employme
 
 ## The four pillars
 
-|Pillar|What it is|Primary audience|
-|---|---|---|
-|**Authority**|arunavamondal.com, 100 Days of Building, personal brand|Broad — anyone assessing credibility|
-|**Services**|Teaching, coaching, consulting — 1-on-1 and small group|Emerging female talent, female small business owners, influencers|
-|**Products**|Books/flyers, tools, website building (thedearart.com)|Same as Services, plus artists, models, players specifically|
-|**Community**|Connecting with influential people, presence in niche communities|Influencers and connectors who amplify reach|
+|Pillar|What it is|Primary audience|Status|
+|---|---|---|---|
+|**Authority**|Build useful things with AI, publish each openly on arunavamondal.com + LinkedIn. Body of work = proof. No day counter, no fixed "100 days."|Broad — anyone assessing credibility|ACTIVE — the crank, runs all year|
+|**Community**|Connect genuinely with artists-with-audiences and women entrepreneurs/creators; show up before asking|Artists with audiences; women entrepreneurs/creators|ACTIVE — relationship hours|
+|**Products**|Done-for-you websites — Dear Art (artists) + under own name for new creators/influencers without a site; later guides/tools|Artists, plus new creators/influencers|SEMI-ACTIVE — IG/FB only|
+|**Services**|Coaching/consulting — emerges from Community + Authority, defined by observed demand|Same, once authority exists|DORMANT — emerges ~month 6|
 
 **Parked:** Cricket analytics — reassess month 6.
+
+**Note on site-building scope:** Not only artists. New creators and influencers who don't yet have a personal site are also targets — handled under Arunava's own brand / arunavamondal.com Services, keeping Dear Art artist-scoped.
 
 ---
 
 ## The flywheel
 
 ```
-BUILD something real
+BUILD something useful with AI
     ↓
-DOCUMENT it honestly
+PUBLISH it openly — arunavamondal.com/projects + LinkedIn
     ↓
-POST it on 3 platforms
+body of work = AUTHORITY + a reason to reach out
     ↓
-AUDIENCE grows + trusts you
+reach out genuinely to artists / women creators = COMMUNITY
     ↓
-People hire you, join Services, or buy Products
+artist-facing builds feed PRODUCTS (Dear Art, IG/FB)
     ↓
-Revenue funds more building
+relationships + visible expertise → "can you help me?" = SERVICES
     ↓
-(repeat)
+revenue funds more building (repeat)
 ```
+
+Authority + Community get deliberate weekly effort now. Products is opportunistic. Services emerges later.
 
 ---
 
@@ -86,7 +90,7 @@ Revenue funds more building
 
 |Platform|What goes here|
 |---|---|
-|LinkedIn|AI builds, 100 Days, build-in-public, Services visibility. NO explicit service promotion.|
+|LinkedIn|AI builds published openly, build-in-public, thoughtful commentary. Authority + Services visibility. NO explicit service promotion (job privacy).|
 |X / Twitter|AI tips, tech observations. Safe from employer visibility.|
 |Instagram (@dearart3)|Artist tools, website builds, Community, Products|
 |Facebook (Dear Art page)|Artist website service, Meta ads, artist communities|
@@ -95,13 +99,14 @@ Revenue funds more building
 
 ---
 
-## 12-month milestone map
+## 12-month arc (how it unfolds)
 
-- **Month 1–2:** 100 Days live (Day 1 shipped June 25), identity live, first artist client
-- **Month 3–4:** 100 Days underway, first book/flyer published, website content rhythm established
-- **Month 5–6:** First course or coaching offer launched, cricket analytics reassessed
-- **Month 7–9:** Community/connection strategy active, consulting enquiries flowing
-- **Month 10–12:** Multiple revenue streams active, independence pathway clear
+- **Phase 1 — Foundation (month 1–2):** arunavamondal.com hub live; FIFA + 1–2 more builds published; connection practice started; Dear Art anchor site (thedearart.com) finished. No revenue yet — correct.
+- **Phase 2 — Traction (month 3–5):** several builds published; outreach warms into conversations; first Dear Art website client (free testimonial build first). First real money likely from Products here, not coaching.
+- **Phase 3 — First offers (month 6–8):** Services offer defined FROM observed demand and soft-launched; first small digital product harvested from what resonated. Cricket reassessed.
+- **Phase 4 — Compounding (month 9–12):** multiple streams reinforcing; SEO + newsletter compounding; independence math becomes visible.
+
+**Honest caveats:** months 1–5 produce little/no money; only Products can move faster. 15 hrs/week supports two active fronts, not four. Consistency — not strategy — is the real risk.
 
 ---
 

@@ -17,67 +17,66 @@
 
 ---
 
-## This week — non-negotiable
+## This week — non-negotiable (Phase 1: build the hub)
 
-- [ ] **Set up WordPress on arunavamondal.com** — install Astra theme + Elementor. Model structure on thedearart.com. Minimum pages: Home, About, /100days. Nothing fancy — just not blank.
-- [ ] **Publish LinkedIn intro post** — it's already written. Open it, copy, paste, publish, pin. 20 minutes max.
-- [ ] **Start Day 1 build** — AI caption generator for artists (Claude API). Takes 2–3 hours. Build it, record it, log it.
-- [ ] **Fill Five-Year Future in personal-growth.md** — 30 minutes, one sitting. Do this before the weekend builds.
+- [ ] **arunavamondal.com hub MVP** — Home + /projects gallery + About. WordPress already installed. Ship live and rough; refine after. Do NOT attempt the full 8-page sitemap yet.
+- [ ] **"Build" custom post type** (CPT UI + ACF) — the engine that makes /projects auto-populate and every future build a 10-min entry.
+- [ ] **Publish FIFA to /projects** and cross-link the LinkedIn post.
+- [ ] **Start the connection practice** — 2–3 genuine engagements/week with artists-with-audiences or women creators. No ask. This is the Community pillar and the seed of Services.
 
 ---
 
 ## Week 2
 
-- [ ] **Write and publish Day 1 build post** — LinkedIn + Instagram. Use build-log template.
-- [ ] **Write first knowledge sharing blog post** — one of: spiritual, inspirational, or financial life knowledge. Audience: emerging female talent. Publish on arunavamondal.com.
-- [ ] **Instagram/Facebook post for Dear Art** — artist service announcement using debasreedeyart.com as the live case study
-- [ ] **Day 2–3 builds** — pick from build-ideas.md using the 3-of-4 framework
+- [ ] **Next build = AI caption generator for artists** — build one weekend, publish to /projects + LinkedIn. Artist-facing; doubles as Dear Art proof.
+- [ ] **Finish thedearart.com** so it's client-ready as an anchor (what-I-do, tiers/"starting at", Debasree's site as flagship, contact path). Products prep — no outreach yet.
+- [ ] **About page polished** on arunavamondal.com; ConvertKit newsletter live.
+- [ ] **Connection practice continues** — same 2–3/week.
 
 ---
 
 ## Week 3–4
 
-- [ ] **arunavamondal.com content live** — Home page copy reflects new positioning (emerging talent audience, four pillars)
-- [ ] **Set up knowledge service page** — 1-1 consultancy, niche website builds, prompts. Simple page, clear offer.
-- [ ] **Start recording builds** — Loom or OBS. Next time you build anything, hit record.
-- [ ] **Instagram presence** — first 3 posts live on personal account aligned to pillars
+- [ ] **Home page copy reflects current positioning** (artists + creators/influencers audience, four pillars, no cricket).
+- [ ] **Rank Math SEO** on every published build page.
+- [ ] **One more build published** — keep the cadence; pick from build-ideas.md via 3-of-4.
+- [ ] **Prep Dear Art outreach list** (15–20 target artists) — research only, no messages yet. Sets up Phase 2.
 
 ---
 
-## Month 2
+## Month 2 (Phase 2: traction)
 
-- [ ] **5+ builds logged** — 100 Days project has visible momentum
-- [ ] **First Dear Art client enquiry converted** — from organic Instagram/Facebook content
-- [ ] **First 1-1 consultancy session** — even at low/no cost for first testimonial
-- [ ] **Blog cadence established** — 2 posts live on arunavamondal.com
-- [ ] **/100days gallery page live** on website
-
----
-
-## Month 3–4
-
-- [ ] **Knowledge sharing digital product** — first paid resource (prompts pack, mini-guide, or workshop) for emerging female talent audience
-- [ ] **Dear Art Tier 1 service** — done-for-you artist websites, 2+ clients
-- [ ] **First Teachery course outline** — based on what's resonating in content
-- [ ] **Niche website service defined** — clear offer, pricing, example work
+- [ ] **4–5 builds published** — visible body of work on /projects
+- [ ] **Dear Art outreach live** — message the target list; offer first build FREE for a testimonial + case study (direct/organic, debasreedeyart.com as anchor, not routed through Debasree's network)
+- [ ] **First Dear Art testimonial build** landed and delivered (Starter-tier scope)
+- [ ] **Connection practice matured** — outreach now carries "I built X" as the reason
 
 ---
 
-## Month 5–6
+## Month 3–4 (Phase 3 begins)
 
-- [ ] **Reassess cricket analytics** — is there audience traction? If yes, reactivate. If no, keep parked.
-- [ ] **New business brainstorm** — pull from ideas-backlog.md, evaluate against revenue potential and audience fit
-- [ ] **Community play** — is there enough audience to start a group, newsletter, or cohort for emerging female talent?
+- [ ] **Convert proof into paid Dear Art clients** — 2+ paid builds using the testimonial + before/after
+- [ ] **Site-building for new creators/influencers** — offer under own brand, not just artists
+- [ ] **First digital product** — harvested from whichever builds/questions resonated most (guide or mini-resource)
+- [ ] **Define the Services offer** (answers Q12) — from what people actually asked for, not guesses
+
+---
+
+## Month 5–6 (Phase 3–4)
+
+- [ ] **Soft-launch coaching/consulting** to the warm audience earned over the prior months
+- [ ] **Reassess cricket analytics** — real audience pull? Reactivate only if yes.
+- [ ] **Community deepening** — collaborations/referrals from the relationships built since month 1
 
 ---
 
 ## Ongoing (every week)
 
-- [ ] 3 posts per week — LinkedIn + Instagram (rotate: build update, knowledge sharing, inspiration)
-- [ ] 1 build logged in build-log.md
-- [ ] 1 blog post published on arunavamondal.com
-- [ ] Update this file and Notion Master Tasks after each session
-- [ ] 30 min personal growth writing — one section of personal-growth.md per week
+- [ ] Publish at least 1 build to /projects + LinkedIn (cadence, not a daily counter)
+- [ ] 2–3 genuine connection engagements (artists / women creators)
+- [ ] Log completed builds in build-log.md
+- [ ] Update weekly-plan.md and this file each session
+- [ ] 30 min personal-growth writing when it fits (not a hard weekly must)
 
 ---
 
@@ -85,17 +84,18 @@
 
 |Pillar|Format|Frequency|Platform|
 |---|---|---|---|
-|AI Builder|Build log, demo, process post|Weekly|LinkedIn, website|
-|Inspire & Connect|Story, spotlight, community post|Weekly|Instagram, LinkedIn|
-|Knowledge Sharing|Blog post, social post|Weekly|Website, Instagram|
-|Artist Service|Case study, result, testimonial|Bi-weekly|Instagram, Facebook|
+|Authority|Published build + process/story post|Weekly|arunavamondal.com, LinkedIn|
+|Community|Genuine engagement + occasional spotlight|Weekly|LinkedIn, Instagram|
+|Products (Dear Art)|Case study, before/after, testimonial|As they happen|Instagram, Facebook|
+|Services|None yet — emerges from the above|—|—|
 
 ---
 
-## What is parked (do not touch until month 6)
+## What is parked (do not touch)
 
-- Cricket analytics builds and content
+- Cricket analytics builds and content (reassess month 6)
 - Podcast planning
 - X/Twitter presence
-- Digital products (reassess after content library builds up)
-- Tier 2 coaching on Dear Art
+- Meta ads (until first testimonial + warm audience)
+- Digital products (until Phase 3)
+- Services/coaching active selling (until it emerges)

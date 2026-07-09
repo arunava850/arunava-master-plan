@@ -10,19 +10,19 @@
 
 ### Q12 — Services offer definition
 
-**Added:** 2026-07-08 **Blocks:** Any mention of coaching/consulting on LinkedIn or website; revenue from Services pillar **Question:** What is the first concrete Services offer? What exactly, for whom specifically, at what price, and how does someone engage? **Answer:** _(pending)_
+**Added:** 2026-07-08 **Updated:** 2026-07-08 **Status:** REFRAMED — do not force. **Decision:** The Services offer is not defined up front by guessing. It EMERGES: publish builds → build relationships with artists/women creators → observe what they repeatedly ask for → that recurring ask becomes the coaching/consulting offer. Revisit for a concrete definition in Phase 3 (~month 6), grounded in real demand, not before.
 
 ---
 
 ### Q13 — Community strategy
 
-**Added:** 2026-07-08 **Blocks:** Community pillar activation; connections with influential people **Question:** Who are the 3 types of influential people you want to connect with? What niche communities — LinkedIn groups, Instagram accounts, podcasts, events — do you want to be part of? **Answer:** _(pending)_
+**Added:** 2026-07-08 **Answered:** 2026-07-08 **Status:** ANSWERED. **Who to connect with:** (1) Artists with audiences — warmest path, adjacent to Debasree/@dearart3, feeds both Community and Products. (2) Women entrepreneurs/creators — broader, colder, higher ceiling; published builds are the entry ticket. **How:** lead with artists (warm), let published work earn standing with the broader group. Practice = 2–3 genuine engagements/week, show up before asking. **Escalate** to direct outreach once there are 3–4 published builds to reach out *with*.
 
 ---
 
-### Q14 — Day 2 build
+### Q14 — Next build
 
-**Added:** 2026-07-08 **Blocks:** 100 Days momentum; next LinkedIn post **Question:** What are you building for Day 2? Stick to overview.md plan or something new? **Answer:** _(pending)_
+**Added:** 2026-07-08 **Answered:** 2026-07-08 **Status:** ANSWERED. "100 Days" is retired — builds are the unit, no day numbering, no counter, no finish line. **Next build = AI caption generator for artists** (Claude API): 4/4 on the framework, artist-facing, doubles as first Dear Art proof. After that, pick from build-ideas.md via 3-of-4, favouring artist/creator-facing tools while Authority is being built.
 
 ---
 

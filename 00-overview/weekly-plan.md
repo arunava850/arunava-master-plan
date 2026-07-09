@@ -6,24 +6,36 @@
 
 ---
 
-## Week of June 9, 2026
+## Week of July 8, 2026
 
-### Today — June 10
+### Today
 
-- [ ] Start Day 1 build — AI caption generator (Claude API). Goal: working prototype by end of day.
-- [ ] Publish LinkedIn intro post — open LinkedIn, paste, publish, pin. 10 minutes max.
+- [ ] arunavamondal.com: replace holding page with a real Home (hook + who you help + link to /projects + newsletter capture)
+- [ ] Confirm Kadence theme active; note the 6 plugins to install (CPT UI, ACF, Kadence Blocks, ConvertKit, Rank Math, WP Fastest Cache)
 
-### This Week
+### This Week (primary = Authority hub; secondary = Community)
 
-- [ ] Ship Day 1 build — AI caption generator. Document as you go.
-- [ ] Publish LinkedIn intro post
-- [ ] Talk to Debasree about first artist referral
-- [ ] Decide recording setup — Loom or OBS. Test it before Day 2.
-- [ ] Decide /100days page — minimal counter now, or wait?
+- [ ] Set up "Build" custom post type (CPT UI + ACF) — highest-leverage hour; makes every future project a 10-min entry
+- [ ] Publish FIFA as first /projects entry; cross-link the LinkedIn post both ways
+- [ ] Draft About page (20yr enterprise → building in public → helping artists/creators; piano-recital hook works)
+- [ ] Connection practice: engage 2–3 artists-with-audiences or women creators genuinely — comment, share, no ask
+- [ ] (Secondary/Products) Fill the gaps on thedearart.com so it's not half-empty — what-I-do line, tiers/"starting at", Debasree's site as flagship example, contact path
+
+### Parallel build (one weekend, when hub work is stable)
+
+- [ ] Next build = AI caption generator for artists (4/4 on framework; artist-facing; doubles as Dear Art proof). Build → publish to /projects + LinkedIn.
 
 ### Done this week
 
-*(move completed items here)*
+- [x] FIFA World Cup Calendar — published on LinkedIn
+- [x] Pinned intro post — published
+
+---
+
+## Not this week (hold the line — 2 fronts only)
+
+- Dear Art client outreach (Products Stage 1+) — after hub MVP + anchor site done
+- Meta ads, digital products, Services/coaching definition — later phases
 
 ---
 

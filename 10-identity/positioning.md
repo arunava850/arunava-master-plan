@@ -12,7 +12,7 @@
 
 ## Primary audience
 
-**Primary:** Emerging female talent — artists, models, players, aspiring entrepreneurs — and female small business owners and influencers who want to build their presence and grow their business.
+**Primary:** Artists with audiences and women entrepreneurs/creators — plus new creators and influencers who don't yet have a personal site — who want to build their presence and grow their business.
 
 **Secondary:** Non-technical people who want to understand and use AI in their work but feel it's not for them yet.
 
@@ -24,9 +24,9 @@
 
 |Pillar|What you do|What it proves|
 |---|---|---|
-|**Authority**|Build real tools with AI, document everything publicly — 100 Days project, arunavamondal.com|You practice what you teach|
+|**Authority**|Build real tools with AI, publish each openly on arunavamondal.com + LinkedIn (no day counter, no fixed project)|You practice what you teach|
 |**Services**|Teach, coach, consult — direct 1-on-1 and small group work|You can transfer what you know|
-|**Products**|Books/flyers, tools, done-for-you website building via thedearart.com|You deliver real outcomes|
+|**Products**|Done-for-you websites — Dear Art for artists, own brand for new creators/influencers — plus later guides/tools|You deliver real outcomes|
 |**Community**|Connect with influential people, embed in the right niche communities for visibility|You're building reach, not just content|
 
 **Parked:** Cricket analytics — reassess month 6.
@@ -55,7 +55,7 @@ But what drives me today is different from what drove me then.
 
 I'm here to help emerging female talent, small business owners, and creators build their presence and grow their business. Artists, models, players, entrepreneurs — people who have something real to offer but aren't sure how to get it in front of the right people, or how to turn what they do into something sustainable.
 
-I build AI tools in public and document everything — 100 Days of Building is the current project. I teach and coach directly. I'm building products — starting with small books and guides, alongside done-for-you website builds through thedearart.com. And I'm working to connect with the right people and communities to help this reach further than I can alone.
+I build AI tools in the open and publish each one — on my site and on LinkedIn. I teach and coach directly. I'm building products — starting with done-for-you website builds through thedearart.com for artists, and for new creators who don't have a home online yet. And I'm working to connect with the right people and communities to help this reach further than I can alone.
 
 My partner Debasree is an artist who built a real online course business from nothing. I helped her build the systems and presence that made it work. That's not a case study — it's what's possible when the right knowledge meets the right effort.
 
@@ -63,7 +63,7 @@ If you're an emerging creator or business owner who wants to build something rea
 
 ---
 
-Currently building: → 100 Days of Building — Day 1 shipped: FIFA World Cup 2026 Live Calendar (wc2026-calendar.arthagu.workers.dev) → Knowledge sharing platform at arunavamondal.com → Artist website and business service at thedearart.com
+Currently building openly: → arunavamondal.com — where every build gets published → FIFA World Cup 2026 Live Calendar (wc2026-calendar.arthagu.workers.dev) → Artist & creator website service via thedearart.com
 
 ---
 
@@ -96,7 +96,7 @@ Currently building: → 100 Days of Building — Day 1 shipped: FIFA World Cup 2
 ## What makes this positioning defensible
 
 1. **20 years of real enterprise systems** — not a weekend learner
-2. **Actively building with AI** — not just talking about it, live proof via 100 Days
+2. **Actively building with AI** — not just talking about it, live proof via published builds
 3. **Debasree as live proof** — real artist, real business, real results
 4. **Direct services model** — teaching and coaching, not just content
 5. **Specific audience** — emerging female talent and small business owners underserved by most tech/AI voices
