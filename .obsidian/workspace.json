@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "weekly-plan"
             }
-          },
-          {
-            "id": "a0cc48543348e510",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "skill/SKILL.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "SKILL"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0cc48543348e510",
+  "active": "ba2135af045efa4a",
   "lastOpenFiles": [
+    "skill/SKILL.md",
     "10-identity/personal-growth.md",
     "10-identity/positioning.md",
     "00-overview/weekly-plan.md",
@@ -219,7 +205,6 @@
     "vault-urls.md",
     "00-overview/big-picture.md",
     "00-overview/backlog.md",
-    "skill/SKILL.md",
     "20-100-days/build-log.md",
     "README.md",
     "Untitled.base",
