@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-overview/weekly-plan.md",
+                "file": "60-website/architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "weekly-plan"
+              "title": "architecture"
             }
           }
         ]
@@ -196,10 +196,10 @@
   },
   "active": "ba2135af045efa4a",
   "lastOpenFiles": [
+    "00-overview/weekly-plan.md",
     "skill/SKILL.md",
     "10-identity/personal-growth.md",
     "10-identity/positioning.md",
-    "00-overview/weekly-plan.md",
     "00-overview/what-to-do-first.md",
     "HOME.md",
     "vault-urls.md",
