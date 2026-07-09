@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-overview/weekly-plan.md",
-                "mode": "source",
-                "source": false
+                "file": "skill/SKILL.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "weekly-plan"
+              "title": "SKILL"
             }
           }
         ],
@@ -211,16 +211,16 @@
   },
   "active": "a0cc48543348e510",
   "lastOpenFiles": [
-    "00-overview/what-to-do-first.md",
+    "10-identity/personal-growth.md",
+    "10-identity/positioning.md",
     "00-overview/weekly-plan.md",
+    "00-overview/what-to-do-first.md",
     "HOME.md",
     "vault-urls.md",
     "00-overview/big-picture.md",
     "00-overview/backlog.md",
-    "10-identity/positioning.md",
     "skill/SKILL.md",
     "20-100-days/build-log.md",
-    "10-identity/personal-growth.md",
     "README.md",
     "Untitled.base",
     "Untitled 1.base",

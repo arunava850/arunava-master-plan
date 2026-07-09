@@ -17,12 +17,10 @@ https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main
 
 ---
 
-## The two-system rule
+## The system rule
 
-> **Obsidian = thinking, writing, reference**
-> **Notion = tracking, doing, managing**
-
-When in doubt: would you want to filter it by status or date? → Notion. Are you writing or thinking? → Obsidian.
+> **Obsidian = everything.** Thinking, writing, planning, tracking. Single source of truth.
+> **Notion = deprecated** except the ❓ Pending Questions page (legacy). Master Tasks and the other databases are no longer used — tasks live in Obsidian (`weekly-plan.md`, `what-to-do-first.md`, `backlog.md`).
 
 ---
 
@@ -102,18 +100,17 @@ When in doubt: would you want to filter it by status or date? → Notion. Are yo
 
 ## Starting a Claude session
 
-Paste this at the start of any new Claude conversation:
+In a new Claude conversation in this project, say:
 
 ```
-Please read my vault and get up to speed. Here are the key files:
-
-SKILL: https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/skill/SKILL.md
-HOME: https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/HOME.md
-BUILD LOG: https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/20-100-days/build-log.md
-PRIORITIES: https://raw.githubusercontent.com/arunava850/arunava-master-plan/refs/heads/main/00-overview/what-to-do-first.md
+load master plan vault
 ```
 
-Claude will fetch all four files, read your current status, and pick up exactly where you left off.
+Claude reads the core files directly from disk via the Filesystem connector — no URLs to paste, no GitHub fetching. It reports current status and priorities, then you work. (If the connector isn't available, Claude will say so — don't fall back to pasting GitHub URLs; they lag and have failed in practice.)
+
+## Ending a session
+
+Claude writes changes directly to the local files and shows diffs. Then **you push**: Obsidian Git: Push (or `git push`). The connector does not push for you.
 
 ---
 

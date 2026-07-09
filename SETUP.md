@@ -1,69 +1,55 @@
 # Setup instructions
 
-## Getting this vault into Obsidian on Mac
+## This vault
 
-### Step 1 — Move the folder
-After downloading, move the `arunava-master-plan` folder to:
+Lives at:
 ```
-~/Documents/Obsidian/arunava-master-plan/
+/Users/arunavamondal/Documents/Business/Career/git-claude/arunava-master-plan/
 ```
+Open this folder as a vault in Obsidian. It's a git repo — Obsidian Git handles sync to GitHub (arunava850/arunava-master-plan).
 
-### Step 2 — Open as a vault in Obsidian
-1. Open Obsidian
-2. Click "Open another vault" (bottom left)
-3. Select "Open folder as vault"
-4. Navigate to `~/Documents/Obsidian/arunava-master-plan/`
-5. Click Open
+---
 
-### Step 3 — Recommended Obsidian settings
-- Enable **Graph view** (left sidebar) — shows how all notes connect
-- Enable **Backlinks** panel — shows which notes link to each note
-- Install the **Dataview** plugin (community plugins) — lets you build dynamic tables from your build log
-- Install the **Calendar** plugin — visual weekly view of your build activity
+## Recommended Obsidian settings
 
-### Step 4 — Set HOME.md as your default startup note
-Settings → Options → Files & Links → Default new tab behaviour → Set to HOME.md
+- **Graph view** + **Backlinks** — see how notes connect
+- **Obsidian Git** plugin — auto-commit + push (this is what syncs to GitHub)
+- Set `HOME.md` as the default startup note (Settings → Files & Links → Default new tab)
 
 ---
 
 ## Using this vault with Claude
 
-Every time you start a new Claude conversation in this project:
-1. Reference the vault by saying "check the vault" or "update the vault"
-2. Claude will read SKILL.md first to get up to speed
-3. After the session, ask Claude to "update the vault with what we decided today"
+1. Start a session by saying **"load master plan vault"** — Claude reads the core files directly from disk via the Filesystem connector (no GitHub fetching, no pasting URLs).
+2. Work.
+3. Claude writes any changes **directly to the local files** and shows diffs.
+4. **You then push:** run Obsidian Git: Push (or `git push`). The connector writes locally — it does NOT push for you.
 
-The vault grows with you. Add new builds, new post drafts, new ideas, new progress — it becomes your living business operating system.
+The vault is your living operating system — it grows as you build.
 
 ---
 
-## Folder structure explained
+## Current folder structure
 
 ```
 arunava-master-plan/
-├── HOME.md                    ← Open this first every time
-├── skill/
-│   └── SKILL.md               ← Claude reads this to understand your context
-├── 00-overview/               ← The big picture and goals
-├── 10-identity/               ← LinkedIn, positioning, posts
-├── 20-100-days/               ← The 100 day project
-├── 30-cricket-analytics/      ← Cricket journey
-├── 40-content-engine/         ← Content system and rhythm
-├── 50-revenue-streams/        ← All revenue paths
-├── 60-website/                ← arunavamondal.com build plan
-├── 70-certifications/         ← Cert plan and progress
-├── 80-build-log/              ← Master build index
-└── 90-resources/              ← Tools, links, references
+├── HOME.md                    ← Open first
+├── skill/SKILL.md             ← Claude's session loader (also copied into Claude Settings → Skills)
+├── 00-overview/               ← big-picture, weekly-plan, what-to-do-first, backlog, audiences, etc.
+├── 10-identity/               ← positioning, linkedin-posts, personal-growth
+├── 20-100-days/               ← build-log + build-ideas (the "100 days" name is retired; just builds now)
+├── 30-cricket-analytics/      ← PARKED
+├── 40-content-engine/         ← content system (older reference)
+├── 50-revenue-streams/        ← revenue overview + Dear Art artist-service
+├── 60-website/                ← arunavamondal.com architecture
+├── 70-certifications/         ← cert plan (backlog)
+└── 90-resources/              ← tools, setup
 ```
 
 ---
 
-## Adding a new build (takes 5 minutes)
+## Adding a new build
 
-1. Open `20-100-days/build-log.md`
-2. Copy the template at the top
-3. Fill in: day number, title, what you built, what surprised you, links
-4. Save
-5. Open `80-build-log/index.md` and add one line entry
-
-That's it. The website pulls from WordPress — this vault is your personal record.
+1. Open `20-100-days/build-log.md`, copy the template, fill in title, date, what you built, what surprised you, links. (No day numbers — builds aren't numbered.)
+2. Add the build to arunavamondal.com via the "Build" custom post type → it appears on /projects automatically.
+3. Publish the LinkedIn post; paste its URL back into the build-log entry and the CPT.
